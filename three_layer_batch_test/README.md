@@ -45,6 +45,8 @@ python three_layer_find_duals.py (Seed) (model_index)
 ```
 Normally, readers need to run this command repeatedly to obtain enough dual points. The batch script is provided by test_loop.bat.
 
+We only provide dual points for random models 1001 - 1100 (exp_three1001 - exp_three1100) and real models 20 - 24 (exp_three_real20 - exp_three_real24) as examples since the total size of all dual points files is approximately 60 GB, which is too large for inspection on GitHub.
+
 For the models we don't provide dual points (no exp folder in three_real_exp and three_random_exp), readers need to run all_loop.bat for batch test to generate dual points for attacking.
 
 Secondly, cluster the points for the sam layer. For 3 layers network, normally we need:
