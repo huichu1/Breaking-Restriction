@@ -37,6 +37,8 @@ python two_layer_find_duals.py (Seed) (model_index)
 ```
 Normally, readers need to run this command repeatly to obtain enough dual points. The batch script is provided by test_loop.bat.
 
+We only provide dual points for model 1 - 10 (exp_two1 - exp_two10) as examples since the total size of all dual points files is approximately 3.8 GB, which is too large for inspection on GitHub
+
 For the models we don't provide dual points (no exp folder in two_exp), readers need to run all_loop.bat for batch test to generate dual points for attacking.
 
 Secondly, cluster the points for the sam layer. For 2 layers network, normally we need:
