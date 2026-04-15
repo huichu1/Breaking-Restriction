@@ -43,8 +43,8 @@ For the models we don't provide dual points (no exp folder in two_exp), readers 
 
 Secondly, cluster the points for the sam layer. For 2 layers network, normally we need:
 ```
-python two_layer_find_duals.py 0 (model_index)
-python two_layer_find_duals.py 1 (model_index)
+python two_layer_cluster.py 0 (model_index)
+python two_layer_cluster.py 1 (model_index)
 ```
 to generate all clusters. Notice that we don't improve the method for clustering points, so we just use the cheat way in **"Polynomial Time Cryptanalytic Extraction of Deep Neural Networks in the Hard-Label Setting"** to show our result more efficiently.
 

@@ -41,9 +41,9 @@ Normally, readers need to run this command repeatly to obtain enough dual points
 
 Secondly, cluster the points for the sam layer. For 3 layers network, normally we need:
 ```
-python three_layer_find_duals.py 0 (result_name)
-python three_layer_find_duals.py 1 (result_name)
-python three_layer_find_duals.py 2 (result_name)
+python three_layer_cluster.py 0 (result_name)
+python three_layer_cluster.py 1 (result_name)
+python three_layer_cluster.py 2 (result_name)
 ```
 to generate all clusters. Notice that we don't improve the method for clustering points, so we just use the cheat way in **"Polynomial Time Cryptanalytic Extraction of Deep Neural Networks in the Hard-Label Setting"** to show our result more efficiently.
 
