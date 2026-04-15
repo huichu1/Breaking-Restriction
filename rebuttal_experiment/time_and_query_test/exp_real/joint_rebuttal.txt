@@ -1,0 +1,405 @@
+First stage time consume is 2^7.153423169853725
+First stage query consume is 2^0
+Extract signature at layer 0 time consume is 2^7.159326506571669
+Extract signature at layer 0 query consume is 2^0
+First stage time consume is 2^7.248172120630569
+First stage query consume is 2^0
+Second stage time consume is 2^-18.794206750602843
+Second stage query consume is 2^0
+First stage time consume is 2^7.263514078537125
+First stage query consume is 2^0
+Third stage time consume is 2^7.268083420109129
+Third stage query consume is 2^0
+Extract slope at layer 0 and signature at layer 1 time consume is 2^8.260650725717284
+Extract slope at layer 0 and signature at layer 1 query consume is 2^0
+First stage time consume is 2^7.432822580199306
+First stage query consume is 2^0
+Second stage time consume is 2^-4.41168358288389
+Second stage query consume is 2^0
+First stage time consume is 2^7.3947623316137845
+First stage query consume is 2^0
+Third stage time consume is 2^7.398921451793115
+Third stage query consume is 2^0
+Extract slope at layer 1 and signature at layer 2 time consume is 2^8.418304929634544
+Extract slope at layer 1 and signature at layer 2 query consume is 2^0
+Input points len in 0 is 1105
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1105
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1125
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1136
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1137
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1137
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1139
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1140
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1147
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1152
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1154
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1157
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1159
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1169
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1171
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1174
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1191
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1192
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1196
+Filtered points len in 0 is 40
+Ok for reconstruction!
+Input points len in 0 is 1200
+Filtered points len in 0 is 40
+Ok for reconstruction!
+First stage time consume is 2^7.366633308815564
+First stage query consume is 2^0
+Extract signature at layer 0 time consume is 2^7.370084684203853
+Extract signature at layer 0 query consume is 2^0
+Input points len for slope in 0 is 1009
+Filtered points len for slope in 0 is 26
+Ok for non-expansive!
+Input points len for slope in 0 is 1082
+Filtered points len for slope in 0 is 26
+Ok for non-expansive!
+Input points len for slope in 0 is 1083
+Filtered points len for slope in 0 is 24
+Filtered points len for slope in 0 is 24
+Filtered points len for slope in 0 is 24
+Ok for non-expansive!
+Input points len for slope in 0 is 1114
+Filtered points len for slope in 0 is 26
+Ok for non-expansive!
+Input points len for slope in 0 is 1118
+Filtered points len for slope in 0 is 32
+Filtered points len for slope in 0 is 32
+Ok for non-expansive!
+Input points len for slope in 0 is 1122
+Filtered points len for slope in 0 is 28
+Ok for non-expansive!
+Input points len for slope in 0 is 1123
+Filtered points len for slope in 0 is 26
+Filtered points len for slope in 0 is 26
+Filtered points len for slope in 0 is 26
+Ok for non-expansive!
+Input points len for slope in 0 is 1128
+Filtered points len for slope in 0 is 26
+Filtered points len for slope in 0 is 26
+Ok for non-expansive!
+Input points len for slope in 0 is 1140
+Filtered points len for slope in 0 is 28
+Ok for non-expansive!
+Input points len for slope in 0 is 1153
+Filtered points len for slope in 0 is 26
+Filtered points len for slope in 0 is 26
+Ok for non-expansive!
+Input points len for slope in 0 is 1159
+Filtered points len for slope in 0 is 28
+Ok for non-expansive!
+Input points len for slope in 0 is 1161
+Filtered points len for slope in 0 is 32
+Ok for non-expansive!
+Input points len for slope in 0 is 1163
+Filtered points len for slope in 0 is 26
+Ok for non-expansive!
+Input points len for slope in 0 is 1169
+Filtered points len for slope in 0 is 30
+Ok for non-expansive!
+Input points len for slope in 0 is 1177
+Filtered points len for slope in 0 is 30
+Ok for non-expansive!
+Input points len for slope in 0 is 1179
+Filtered points len for slope in 0 is 28
+Ok for non-expansive!
+Input points len for slope in 0 is 1188
+Filtered points len for slope in 0 is 24
+Ok for non-expansive!
+Input points len for slope in 0 is 1199
+Filtered points len for slope in 0 is 28
+Ok for non-expansive!
+Input points len for slope in 0 is 1200
+Filtered points len for slope in 0 is 32
+Ok for non-expansive!
+Input points len for slope in 0 is 1200
+Filtered points len for slope in 0 is 30
+Ok for non-expansive!
+Input points len for slope in 0 is 1200
+Filtered points len for slope in 0 is 32
+Ok for non-expansive!
+Input points len for slope in 0 is 1200
+Filtered points len for slope in 0 is 24
+Ok for non-expansive!
+First stage time consume is 2^7.2082778175593365
+First stage query consume is 2^0
+Second stage time consume is 2^-17.420684062419987
+Second stage query consume is 2^0
+Input points len in 1 is 1009
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1082
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1083
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1114
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1118
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1122
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1123
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1128
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1140
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1153
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1159
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1161
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1163
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1169
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1177
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1179
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1188
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1199
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1200
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1200
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1200
+Filtered points len in 1 is 40
+Ok for reconstruction!
+Input points len in 1 is 1200
+Filtered points len in 1 is 40
+Ok for reconstruction!
+First stage time consume is 2^7.1790557930356975
+First stage query consume is 2^0
+Third stage time consume is 2^7.183885962412047
+Third stage query consume is 2^0
+Extract slope at layer 0 and signature at layer 1 time consume is 2^8.198610895927551
+Extract slope at layer 0 and signature at layer 1 query consume is 2^0
+Input points len for slope in 1 is 1077
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1088
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1096
+Filtered points len for slope in 1 is 28
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1112
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1123
+Filtered points len for slope in 1 is 32
+Filtered points len for slope in 1 is 32
+Ok for this?
+Input points len for slope in 1 is 1142
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1145
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1155
+Filtered points len for slope in 1 is 28
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1167
+Filtered points len for slope in 1 is 32
+Ok for this?
+Input points len for slope in 1 is 1168
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1172
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1175
+Filtered points len for slope in 1 is 28
+Filtered points len for slope in 1 is 28
+Filtered points len for slope in 1 is 28
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1176
+Filtered points len for slope in 1 is 28
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1180
+Filtered points len for slope in 1 is 24
+Ok for this?
+Input points len for slope in 1 is 1182
+Filtered points len for slope in 1 is 26
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1185
+Filtered points len for slope in 1 is 24
+Filtered points len for slope in 1 is 24
+Ok for this?
+Input points len for slope in 1 is 1185
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1191
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1196
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1200
+Filtered points len for slope in 1 is 24
+Ok for this?
+Input points len for slope in 1 is 1200
+Filtered points len for slope in 1 is 28
+Ok for this?
+Input points len for slope in 1 is 1200
+Filtered points len for slope in 1 is 26
+Filtered points len for slope in 1 is 26
+Ok for this?
+Input points len for slope in 1 is 1200
+Filtered points len for slope in 1 is 34
+Ok for this?
+Input points len for slope in 1 is 1200
+Filtered points len for slope in 1 is 26
+Filtered points len for slope in 1 is 26
+Ok for this?
+First stage time consume is 2^7.5892561351566705
+First stage query consume is 2^0
+Second stage time consume is 2^-3.579380266571878
+Second stage query consume is 2^0
+Input points len in 2 is 1077
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1088
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1096
+Filtered points len in 2 is 40
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1112
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1123
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1142
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1145
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1155
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1167
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1168
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1172
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1175
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1176
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1180
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1182
+Filtered points len in 2 is 40
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1185
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1185
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1191
+Filtered points len in 2 is 40
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1196
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1200
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1200
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1200
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1200
+Filtered points len in 2 is 40
+Ok for reconstruction!
+Input points len in 2 is 1200
+Filtered points len in 2 is 40
+Ok for reconstruction!
+First stage time consume is 2^7.552017463870675
+First stage query consume is 2^0
+Third stage time consume is 2^7.556736131814289
+Third stage query consume is 2^0
+Extract slope at layer 1 and signature at layer 2 time consume is 2^8.57592494999216
+Extract slope at layer 1 and signature at layer 2 query consume is 2^0

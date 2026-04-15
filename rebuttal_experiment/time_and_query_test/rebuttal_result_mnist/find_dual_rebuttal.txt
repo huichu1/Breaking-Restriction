@@ -1,0 +1,6 @@
+Time consume: 2^7.549754684217216 for seed 1
+Query consume: 2^25.1577594708871 for seed 1 
+Time consume: 2^7.487802862444777 for seed 2
+Query consume: 2^25.276365187520916 for seed 2 
+Time consume: 2^7.924621910408441 for seed 3
+Query consume: 2^25.17911394577066 for seed 3 

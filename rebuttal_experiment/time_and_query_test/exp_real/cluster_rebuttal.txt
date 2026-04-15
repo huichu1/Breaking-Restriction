@@ -1,0 +1,15 @@
+cheat cluster at layer 0 time consume is 2^5.415611215999754
+cheat cluster at layer 0 query consume is 2^0
+cheat cluster at layer 1 time consume is 2^5.574165455856806
+cheat cluster at layer 1 query consume is 2^0
+cheat cluster at layer 2 time consume is 2^5.4770214159614055
+cheat cluster at layer 2 query consume is 2^0
+all num is: 23136
+cheat cluster at layer 0 time consume is 2^5.433681255450809
+cheat cluster at layer 0 query consume is 2^0
+all num is: 25358
+cheat cluster at layer 1 time consume is 2^6.068764159385726
+cheat cluster at layer 1 query consume is 2^0
+all num is: 27980
+cheat cluster at layer 2 time consume is 2^5.985960694086196
+cheat cluster at layer 2 query consume is 2^0
