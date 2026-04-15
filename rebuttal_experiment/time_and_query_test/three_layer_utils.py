@@ -158,7 +158,6 @@ else:
     cheat_net_cpu.load_state_dict(torch.load(MODEL_ROOT_FOLDER_NAME + MODEL_NAME + ".pth"))
 cheat_net_cpu.double()
 
-# 自创的承接端到端恢复的模型
 Our_model = CIFAR10Net()
 Our_model.double().cuda()
 
@@ -192,14 +191,8 @@ BIASES.append(b_last)
 print("generating value ok!",file=DEBUG_FILE)
 
 def getting_end_to_end_model_weight_and_bias(layer):
-    # 我只会在恢复过程中获得权重和偏置参数而不会获取slope参数
-    # slope参数只会在prefix中被调用
-    # 注意查看是否要进行转置
-    # 上面WEIGHTS的形式是Ax，但默认是xA
     global Our_model
-    # 实际上weight应当是（DIM2，DIM1）的形式
     our_state_dict = Our_model.state_dict()
-    # 实际索引从1开始，所以第0层对应fc1
     weight_index = f'fc{layer+1}.weight'
     bias_index = f'fc{layer+1}.bias'
     numpy_weight = our_state_dict[weight_index].cpu().numpy()

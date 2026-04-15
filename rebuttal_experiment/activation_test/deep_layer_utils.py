@@ -30,7 +30,7 @@ RESULT_ROOT_FOLDER_NAME = ""
 DEBUG_FILE = open("debug.txt","w")
 RESULT_FILE = open(RESULT_ROOT_FOLDER_NAME +  "result" + str(name_ID) +".txt","w")
 
-# I konw it's stupid and will be refined soon
+# I know it's stupid and will be refined soon
 if TINY:
     IDIM = 784
     # DIM Should be the max value of DIM1,DIM2,SHRINK 

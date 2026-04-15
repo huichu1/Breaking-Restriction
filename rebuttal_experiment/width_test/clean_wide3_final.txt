@@ -1,0 +1,1488 @@
+previous layer counts is 0
+previous layer fail counts is 0
+previous layer None counts is 0
+begin extract signature in layer 0
+CLUSTER ID62
+Successfully extracted neuron 62 with abs err 4.188596760558959e-10
+CLUSTER ID100
+Successfully extracted neuron 100 with abs err 9.799398402107751e-11
+CLUSTER ID85
+Successfully extracted neuron 85 with abs err 6.515347571352248e-11
+CLUSTER ID64
+Successfully extracted neuron 64 with abs err 5.317624541655713e-12
+CLUSTER ID66
+Successfully extracted neuron 66 with abs err 4.73465218853858e-10
+CLUSTER ID60
+Successfully extracted neuron 60 with abs err 9.832546148808019e-11
+CLUSTER ID39
+Successfully extracted neuron 39 with abs err 1.3979548324060537e-10
+CLUSTER ID52
+Successfully extracted neuron 52 with abs err 1.7484874919454496e-10
+CLUSTER ID95
+Successfully extracted neuron 95 with abs err 7.465246927573777e-10
+CLUSTER ID49
+Successfully extracted neuron 49 with abs err 2.2004227628359685e-10
+CLUSTER ID30
+Successfully extracted neuron 30 with abs err 2.763744300689902e-10
+CLUSTER ID53
+Successfully extracted neuron 53 with abs err 1.4229444337231223e-10
+CLUSTER ID106
+Successfully extracted neuron 106 with abs err 1.226480217842059e-10
+CLUSTER ID88
+Successfully extracted neuron 88 with abs err 2.7289904147229094e-10
+CLUSTER ID36
+Successfully extracted neuron 36 with abs err 3.6396011259074573e-11
+CLUSTER ID24
+Successfully extracted neuron 24 with abs err 7.923328998113432e-10
+CLUSTER ID32
+Successfully extracted neuron 32 with abs err 3.051111314826289e-10
+CLUSTER ID81
+Successfully extracted neuron 81 with abs err 7.241736171229723e-11
+CLUSTER ID101
+Successfully extracted neuron 101 with abs err 1.5332212929819455e-10
+CLUSTER ID46
+Successfully extracted neuron 46 with abs err 5.4390745813509556e-11
+CLUSTER ID42
+Successfully extracted neuron 42 with abs err 1.306723823655924e-11
+CLUSTER ID67
+Successfully extracted neuron 67 with abs err 3.3979296850186747e-09
+CLUSTER ID105
+Successfully extracted neuron 105 with abs err 3.033251158059136e-09
+CLUSTER ID7
+Successfully extracted neuron 7 with abs err 6.177645379837685e-10
+CLUSTER ID89
+Successfully extracted neuron 89 with abs err 3.472838304907286e-10
+CLUSTER ID76
+Successfully extracted neuron 76 with abs err 9.096765072984236e-11
+CLUSTER ID37
+Successfully extracted neuron 37 with abs err 1.7880772768463435e-10
+CLUSTER ID14
+Successfully extracted neuron 14 with abs err 2.3209360160755116e-11
+CLUSTER ID104
+Successfully extracted neuron 104 with abs err 2.823500249793734e-11
+CLUSTER ID19
+Successfully extracted neuron 19 with abs err 1.8062325159856618e-10
+CLUSTER ID109
+Successfully extracted neuron 109 with abs err 3.3437220223545006e-11
+CLUSTER ID12
+Successfully extracted neuron 12 with abs err 3.9576559542585377e-10
+CLUSTER ID48
+Successfully extracted neuron 48 with abs err 1.9156257526423137e-11
+CLUSTER ID21
+Successfully extracted neuron 21 with abs err 4.117397091676911e-11
+CLUSTER ID103
+Successfully extracted neuron 103 with abs err 2.565951441667151e-10
+CLUSTER ID96
+Successfully extracted neuron 96 with abs err 5.0475123646726017e-11
+CLUSTER ID91
+Successfully extracted neuron 91 with abs err 6.617839306069517e-11
+CLUSTER ID83
+Successfully extracted neuron 83 with abs err 4.184547326702148e-11
+CLUSTER ID72
+Successfully extracted neuron 72 with abs err 1.0779507213058703e-10
+CLUSTER ID51
+Successfully extracted neuron 51 with abs err 3.6943491885446655e-12
+CLUSTER ID34
+Successfully extracted neuron 34 with abs err 6.872745558425541e-11
+CLUSTER ID73
+Successfully extracted neuron 73 with abs err 5.3407644626246586e-11
+CLUSTER ID98
+Successfully extracted neuron 98 with abs err 3.11431012380535e-10
+CLUSTER ID55
+Successfully extracted neuron 55 with abs err 4.36811071254789e-11
+CLUSTER ID5
+Successfully extracted neuron 5 with abs err 5.399672230611136e-10
+CLUSTER ID4
+Successfully extracted neuron 4 with abs err 1.8809573165516624e-09
+CLUSTER ID79
+Successfully extracted neuron 79 with abs err 4.617557085393603e-11
+CLUSTER ID68
+Successfully extracted neuron 68 with abs err 4.5063817044263543e-13
+CLUSTER ID87
+Successfully extracted neuron 87 with abs err 8.860205212742056e-12
+CLUSTER ID80
+Successfully extracted neuron 80 with abs err 6.750830016527543e-11
+CLUSTER ID10
+Successfully extracted neuron 10 with abs err 2.8488033132203973e-09
+CLUSTER ID13
+Successfully extracted neuron 13 with abs err 3.000185018497449e-10
+CLUSTER ID44
+Successfully extracted neuron 44 with abs err 2.45986168283599e-10
+CLUSTER ID17
+Successfully extracted neuron 17 with abs err 4.2157012987908624e-11
+CLUSTER ID23
+Successfully extracted neuron 23 with abs err 1.7605909525403307e-10
+CLUSTER ID20
+Successfully extracted neuron 20 with abs err 6.634158695485726e-11
+CLUSTER ID70
+Successfully extracted neuron 70 with abs err 1.632650990855515e-10
+CLUSTER ID41
+Successfully extracted neuron 41 with abs err 2.2166078217714102e-10
+CLUSTER ID0
+Successfully extracted neuron 0 with abs err 1.8412938057946193e-10
+CLUSTER ID59
+Successfully extracted neuron 59 with abs err 2.5354700854314256e-10
+CLUSTER ID97
+Successfully extracted neuron 97 with abs err 1.9226609735724376e-10
+CLUSTER ID28
+Successfully extracted neuron 28 with abs err 4.0837392495385316e-11
+CLUSTER ID93
+Successfully extracted neuron 93 with abs err 3.543395619780808e-11
+CLUSTER ID1
+Successfully extracted neuron 1 with abs err 9.95791403892235e-09
+CLUSTER ID33
+Successfully extracted neuron 33 with abs err 6.303261480475331e-10
+CLUSTER ID82
+Successfully extracted neuron 82 with abs err 3.061812834520561e-10
+CLUSTER ID61
+Successfully extracted neuron 61 with abs err 4.322876420975036e-11
+CLUSTER ID43
+Successfully extracted neuron 43 with abs err 1.6216730801092705e-10
+CLUSTER ID74
+Successfully extracted neuron 74 with abs err 6.615478922045864e-11
+CLUSTER ID9
+Successfully extracted neuron 9 with abs err 1.0871747317502123e-10
+CLUSTER ID71
+Successfully extracted neuron 71 with abs err 2.1107699680993075e-10
+CLUSTER ID69
+Successfully extracted neuron 69 with abs err 1.0080149343401562e-10
+CLUSTER ID25
+Successfully extracted neuron 25 with abs err 3.467188611905529e-10
+CLUSTER ID29
+Successfully extracted neuron 29 with abs err 3.068153147858929e-10
+CLUSTER ID92
+Successfully extracted neuron 92 with abs err 1.1074379062977861e-10
+CLUSTER ID78
+Successfully extracted neuron 78 with abs err 2.4036951747595514e-10
+CLUSTER ID45
+Successfully extracted neuron 45 with abs err 6.875168498312462e-09
+CLUSTER ID15
+Successfully extracted neuron 15 with abs err 1.4365373203050619e-11
+CLUSTER ID18
+Successfully extracted neuron 18 with abs err 1.3837355545241736e-10
+CLUSTER ID27
+Successfully extracted neuron 27 with abs err 1.563647936174764e-11
+CLUSTER ID57
+Successfully extracted neuron 57 with abs err 2.833811013538273e-10
+CLUSTER ID94
+Successfully extracted neuron 94 with abs err 1.3408904002516383e-09
+CLUSTER ID40
+Successfully extracted neuron 40 with abs err 1.5790926444041176e-10
+CLUSTER ID16
+Successfully extracted neuron 16 with abs err 3.625263153908542e-11
+CLUSTER ID3
+Successfully extracted neuron 3 with abs err 5.966562112002388e-10
+CLUSTER ID75
+Successfully extracted neuron 75 with abs err 1.3671671364456905e-09
+CLUSTER ID8
+Successfully extracted neuron 8 with abs err 2.053714490135583e-10
+CLUSTER ID50
+Successfully extracted neuron 50 with abs err 3.774398057553724e-11
+CLUSTER ID2
+Successfully extracted neuron 2 with abs err 9.686568821359876e-11
+CLUSTER ID6
+Successfully extracted neuron 6 with abs err 2.81933259670044e-10
+CLUSTER ID31
+Successfully extracted neuron 31 with abs err 1.9106721819940262e-11
+CLUSTER ID84
+Successfully extracted neuron 84 with abs err 1.6290749608668942e-10
+CLUSTER ID86
+Successfully extracted neuron 86 with abs err 1.5466434990368816e-11
+CLUSTER ID65
+Successfully extracted neuron 65 with abs err 7.030919869205864e-10
+CLUSTER ID38
+Successfully extracted neuron 38 with abs err 6.189382383350872e-11
+CLUSTER ID26
+Successfully extracted neuron 26 with abs err 1.3084572276578568e-10
+CLUSTER ID99
+Successfully extracted neuron 99 with abs err 7.114162204214375e-10
+CLUSTER ID102
+Successfully extracted neuron 102 with abs err 1.5020897286416313e-11
+CLUSTER ID11
+Successfully extracted neuron 11 with abs err 7.9594130678734e-10
+CLUSTER ID58
+Successfully extracted neuron 58 with abs err 6.909056592899893e-10
+CLUSTER ID107
+Successfully extracted neuron 107 with abs err 4.8077714335723054e-11
+CLUSTER ID56
+Successfully extracted neuron 56 with abs err 1.4991281076758012e-09
+CLUSTER ID54
+Successfully extracted neuron 54 with abs err 1.476386711724096e-10
+CLUSTER ID35
+Successfully extracted neuron 35 with abs err 4.789999937492018e-10
+CLUSTER ID90
+Successfully extracted neuron 90 with abs err 1.5074915220205515e-10
+CLUSTER ID63
+Successfully extracted neuron 63 with abs err 1.8370776904905184e-11
+CLUSTER ID47
+Successfully extracted neuron 47 with abs err 2.1327332818082793e-09
+CLUSTER ID77
+Successfully extracted neuron 77 with abs err 4.555274434568657e-10
+CLUSTER ID108
+Successfully extracted neuron 108 with abs err 3.1262071046016943e-10
+CLUSTER ID22
+Successfully extracted neuron 22 with abs err 4.1805996238062325e-10
+previous layer counts is 110
+previous layer fail counts is 0
+previous layer None counts is 0
+max signature error is 9.95791403892235e-09
+begin extract slope in layer 0 and signature in layer 1
+CLUSTER ID218
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID159
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID170
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID172
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID230
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID153
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID147
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID206
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID182
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID237
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID192
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID211
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID225
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID145
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID185
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID197
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID161
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID187
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID195
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID239
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID177
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID235
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID245
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID143
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID141
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID130
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID194
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID138
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID210
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID234
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID137
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID244
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID224
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID212
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID215
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID140
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID139
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID242
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID190
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID193
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID171
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID232
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID150
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID162
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID213
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID152
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID160
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID198
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID179
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID173
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID156
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID226
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID231
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID155
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID220
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID167
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID216
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID196
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID163
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID176
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID208
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID228
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID142
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID136
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID175
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID243
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID188
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID204
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID214
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID174
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID184
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID132
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID157
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID154
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID165
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID207
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID181
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID209
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID129
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID180
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID217
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID219
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID128
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID221
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID146
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID148
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID199
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID222
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID238
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID200
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID134
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID247
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID205
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID201
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID164
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID203
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID169
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID227
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID202
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID240
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID246
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID186
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID189
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID191
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID233
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID151
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID144
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID158
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID178
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID131
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID241
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID168
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID183
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID135
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID236
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID229
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID149
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID133
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID166
+This network is expansive in layer 0, The real result is given by least square
+CLUSTER ID223
+This network is expansive in layer 0, The real result is given by least square
+Index 0 residue extraced slope err is
+[2.69416529e-03 9.22858873e-05 4.99442635e-04 5.20970566e-04
+1.20300267e-03 7.09629846e-04 1.22616254e-04 7.26705359e-05
+4.75203692e-04 3.31831929e-04 3.85785886e-04 1.41226103e-04
+1.20371996e-04 7.35418355e-04 4.89053917e-05 2.33725206e-04
+2.78435930e-04 2.34992168e-04 4.05417480e-04 5.36005222e-04
+2.39954327e-04 1.78949496e-04 2.06346740e-06 8.00087750e-04
+1.69390206e-04 4.00405615e-04 5.32063589e-04 3.18906796e-04
+8.19718593e-04 2.32530028e-04 2.11422874e-05 1.28041497e-04
+1.11983569e-04 6.66909695e-04 1.11893894e-04 2.25993064e-04
+1.59901285e-04 1.58162773e-04 5.80384524e-05 4.79865541e-05
+3.16300477e-04 4.51131298e-04 1.42879194e-04 1.70291095e-04
+2.21079758e-04 1.37109792e-05 1.24601372e-03 1.72557620e-04
+3.13879750e-04 2.12392605e-04 1.56920690e-06 9.79278211e-05
+3.03152360e-04 5.44585161e-04 2.20357406e-04 7.92947272e-05
+2.09015052e-05 1.18028946e-04 5.99306656e-04 1.62543744e-06
+5.42001749e-05 8.17107433e-04 1.21501756e-04 2.28074040e-03
+8.85913591e-05 1.39433475e-05 6.13185365e-04 4.00238023e-05
+3.04332488e-04 2.72990554e-04 6.38997488e-04 2.35359842e-04
+4.12406648e-04 7.16438642e-05 5.36296487e-04 2.72265023e-04
+5.58651369e-04 5.71041449e-05 1.09646187e-04 6.72613616e-05
+7.12830680e-06 5.96906273e-04 3.68192494e-04 1.10555233e-04
+2.91516789e-04 1.03167012e-05 4.63506963e-04 2.42243741e-05
+2.83578099e-04 2.86216134e-04 3.67174380e-05 2.34585126e-04
+7.73914497e-04 2.93844693e-05 3.35114816e-05 8.68097512e-05
+1.73235867e-04 1.92500685e-04 1.79562916e-03 3.20506687e-05
+5.91240678e-04 1.25604707e-04 5.78428442e-04 6.90820243e-04
+6.75423648e-04 6.19329066e-05 2.89142578e-05 9.94521270e-04
+3.00753738e-03 6.38499884e-05]
+2.69416529e-03 9.22858873e-05 4.99442635e-04 5.20970566e-04 1.20300267e-03 7.09629846e-04 1.22616254e-04 7.26705359e-05 4.75203692e-04 3.31831929e-04 3.85785886e-04 1.41226103e-04 1.20371996e-04 7.35418355e-04 4.89053917e-05 2.33725206e-04 2.78435930e-04 2.34992168e-04 4.05417480e-04 5.36005222e-04 2.39954327e-04 1.78949496e-04 2.06346740e-06 8.00087750e-04 1.69390206e-04 4.00405615e-04 5.32063589e-04 3.18906796e-04 8.19718593e-04 2.32530028e-04 2.11422874e-05 1.28041497e-04 1.11983569e-04 6.66909695e-04 1.11893894e-04 2.25993064e-04 1.59901285e-04 1.58162773e-04 5.80384524e-05 4.79865541e-05 3.16300477e-04 4.51131298e-04 1.42879194e-04 1.70291095e-04 2.21079758e-04 1.37109792e-05 1.24601372e-03 1.72557620e-04 3.13879750e-04 2.12392605e-04 1.56920690e-06 9.79278211e-05 3.03152360e-04 5.44585161e-04 2.20357406e-04 7.92947272e-05 2.09015052e-05 1.18028946e-04 5.99306656e-04 1.62543744e-06 5.42001749e-05 8.17107433e-04 1.21501756e-04 2.28074040e-03 8.85913591e-05 1.39433475e-05 6.13185365e-04 4.00238023e-05 3.04332488e-04 2.72990554e-04 6.38997488e-04 2.35359842e-04 4.12406648e-04 7.16438642e-05 5.36296487e-04 2.72265023e-04 5.58651369e-04 5.71041449e-05 1.09646187e-04 6.72613616e-05 7.12830680e-06 5.96906273e-04 3.68192494e-04 1.10555233e-04 2.91516789e-04 1.03167012e-05 4.63506963e-04 2.42243741e-05 2.83578099e-04 2.86216134e-04 3.67174380e-05 2.34585126e-04 7.73914497e-04 2.93844693e-05 3.35114816e-05 8.68097512e-05 1.73235867e-04 1.92500685e-04 1.79562916e-03 3.20506687e-05 5.91240678e-04 1.25604707e-04 5.78428442e-04 6.90820243e-04 6.75423648e-04 6.19329066e-05 2.89142578e-05 9.94521270e-04 3.00753738e-03 6.38499884e-05
+max error is :0.00300753738
+Index 1 residue extraced slope err is
+[8.38654848e-05 8.88497719e-05 4.71659964e-04 1.84175469e-04
+8.12410878e-05 1.78939673e-04 2.51704490e-05 1.07394940e-05
+1.83988216e-04 1.77157124e-04 1.49714492e-04 2.97967527e-04
+2.68888971e-04 9.10149223e-05 4.07314311e-05 8.71760889e-04
+7.39637622e-04 3.64152346e-04 3.23433907e-04 3.93270622e-04
+4.01002362e-04 2.59186477e-04 2.05818513e-04 3.84543618e-04
+1.43257148e-04 3.39227173e-04 8.84161872e-05 7.66929941e-05
+8.72443393e-04 1.94652678e-04 1.82213464e-04 1.34932465e-03
+2.74632707e-04 6.14750618e-04 6.79180430e-05 4.57209652e-05
+1.54594563e-04 2.67682279e-04 3.56879691e-04 1.50255643e-04
+6.93357047e-04 2.77497233e-04 1.73088389e-04 4.32742432e-04
+2.36943987e-04 6.46308637e-03 1.06541504e-03 9.52835282e-05
+2.98006633e-04 2.91210118e-04 2.66321053e-04 9.59550203e-05
+9.51383939e-05 5.50297940e-04 2.21928832e-04 2.62651120e-04
+5.32666441e-04 4.73849810e-05 1.87441694e-04 4.11624241e-04
+1.11713946e-04 2.51942489e-04 2.15611801e-05 5.19453894e-03
+8.18499072e-06 3.90779067e-05 8.76260724e-04 6.32327668e-04
+2.85121378e-05 2.33494102e-05 1.63372019e-04 5.24002784e-04
+1.95495493e-05 1.44314380e-04 2.54266672e-06 5.21782808e-04
+4.21873854e-05 1.23543794e-03 8.33500568e-05 8.10273255e-05
+1.42553561e-04 5.40359017e-04 3.41224479e-04 2.44604003e-04
+6.34383058e-05 3.43441479e-04 3.85384992e-04 2.02425553e-04
+2.56590435e-04 1.10407375e-05 1.22326579e-04 9.02889794e-05
+4.37239835e-04 1.57462480e-04 5.51282406e-05 4.90270577e-05
+3.96828895e-04 5.93498030e-05 2.69812731e-04 1.50449430e-05
+1.17821506e-05 3.98039906e-04 6.36807675e-05 2.47735546e-05
+4.08719727e-04 3.53723744e-05 1.81381947e-04 2.18223478e-04
+2.46238977e-04 1.54118634e-04]
+8.38654848e-05 8.88497719e-05 4.71659964e-04 1.84175469e-04 8.12410878e-05 1.78939673e-04 2.51704490e-05 1.07394940e-05 1.83988216e-04 1.77157124e-04 1.49714492e-04 2.97967527e-04 2.68888971e-04 9.10149223e-05 4.07314311e-05 8.71760889e-04 7.39637622e-04 3.64152346e-04 3.23433907e-04 3.93270622e-04 4.01002362e-04 2.59186477e-04 2.05818513e-04 3.84543618e-04 1.43257148e-04 3.39227173e-04 8.84161872e-05 7.66929941e-05 8.72443393e-04 1.94652678e-04 1.82213464e-04 1.34932465e-03 2.74632707e-04 6.14750618e-04 6.79180430e-05 4.57209652e-05 1.54594563e-04 2.67682279e-04 3.56879691e-04 1.50255643e-04 6.93357047e-04 2.77497233e-04 1.73088389e-04 4.32742432e-04 2.36943987e-04 6.46308637e-03 1.06541504e-03 9.52835282e-05 2.98006633e-04 2.91210118e-04 2.66321053e-04 9.59550203e-05 9.51383939e-05 5.50297940e-04 2.21928832e-04 2.62651120e-04 5.32666441e-04 4.73849810e-05 1.87441694e-04 4.11624241e-04 1.11713946e-04 2.51942489e-04 2.15611801e-05 5.19453894e-03 8.18499072e-06 3.90779067e-05 8.76260724e-04 6.32327668e-04 2.85121378e-05 2.33494102e-05 1.63372019e-04 5.24002784e-04 1.95495493e-05 1.44314380e-04 2.54266672e-06 5.21782808e-04 4.21873854e-05 1.23543794e-03 8.33500568e-05 8.10273255e-05 1.42553561e-04 5.40359017e-04 3.41224479e-04 2.44604003e-04 6.34383058e-05 3.43441479e-04 3.85384992e-04 2.02425553e-04 2.56590435e-04 1.10407375e-05 1.22326579e-04 9.02889794e-05 4.37239835e-04 1.57462480e-04 5.51282406e-05 4.90270577e-05 3.96828895e-04 5.93498030e-05 2.69812731e-04 1.50449430e-05 1.17821506e-05 3.98039906e-04 6.36807675e-05 2.47735546e-05 4.08719727e-04 3.53723744e-05 1.81381947e-04 2.18223478e-04 2.46238977e-04 1.54118634e-04
+max error is :0.00646308637
+Index 2 residue extraced slope err is
+[2.24633636e-04 1.11708747e-07 1.27269732e-04 1.21871999e-04
+1.90701052e-04 1.11456271e-05 4.10181543e-05 9.01877123e-06
+1.56968682e-05 2.81842177e-05 6.06583361e-05 1.16270495e-05
+3.27671506e-05 1.25862418e-04 2.03244090e-05 2.32490796e-04
+1.93105013e-04 2.85232684e-05 9.44741893e-05 1.38596247e-04
+1.03191528e-03 1.45303406e-04 1.44146596e-05 1.18958453e-03
+1.83939310e-06 7.47427384e-04 3.59923995e-05 7.94569547e-05
+3.82932686e-04 9.71442066e-05 1.52243600e-04 1.37116554e-05
+1.37693198e-04 2.98032038e-05 3.29662190e-05 2.15310911e-05
+1.55659447e-04 1.70681086e-05 1.25313924e-04 4.13761294e-05
+4.75241071e-06 3.44206212e-04 4.26025700e-05 1.60236707e-04
+6.39523699e-05 2.30636852e-05 1.50064777e-04 2.10743806e-06
+1.47143748e-05 8.17864006e-05 9.68296117e-05 3.11486769e-04
+5.03194100e-04 7.18222772e-05 1.09711093e-04 1.30119161e-04
+3.54063133e-05 1.00105432e-05 5.86451336e-05 1.40694838e-04
+7.00673648e-05 2.32872971e-04 5.98022995e-05 3.95177231e-04
+1.26890754e-04 2.07771644e-04 2.39609597e-04 1.14046395e-04
+1.12087565e-04 3.47375173e-05 1.19847650e-04 3.65508007e-05
+2.39363598e-05 9.14256896e-06 2.84319593e-04 4.38373508e-04
+3.92330203e-05 7.49922677e-05 6.64120311e-05 1.82990040e-05
+6.31224414e-05 2.69751547e-04 3.12224385e-04 6.05823654e-05
+1.03132356e-04 1.56851972e-05 8.08390912e-06 3.54919939e-05
+7.21982769e-05 8.31551584e-05 4.02056255e-05 3.38706844e-04
+7.66715008e-05 3.39901913e-05 5.55068594e-06 1.70564440e-05
+8.89814456e-05 3.14064841e-05 4.19416271e-06 7.91906218e-05
+8.65006314e-05 3.56029280e-05 1.60534708e-04 1.15752380e-04
+1.16332678e-04 5.54822191e-05 6.21011954e-05 1.46185733e-04
+3.72193947e-04 4.48087281e-05]
+2.24633636e-04 1.11708747e-07 1.27269732e-04 1.21871999e-04 1.90701052e-04 1.11456271e-05 4.10181543e-05 9.01877123e-06 1.56968682e-05 2.81842177e-05 6.06583361e-05 1.16270495e-05 3.27671506e-05 1.25862418e-04 2.03244090e-05 2.32490796e-04 1.93105013e-04 2.85232684e-05 9.44741893e-05 1.38596247e-04 1.03191528e-03 1.45303406e-04 1.44146596e-05 1.18958453e-03 1.83939310e-06 7.47427384e-04 3.59923995e-05 7.94569547e-05 3.82932686e-04 9.71442066e-05 1.52243600e-04 1.37116554e-05 1.37693198e-04 2.98032038e-05 3.29662190e-05 2.15310911e-05 1.55659447e-04 1.70681086e-05 1.25313924e-04 4.13761294e-05 4.75241071e-06 3.44206212e-04 4.26025700e-05 1.60236707e-04 6.39523699e-05 2.30636852e-05 1.50064777e-04 2.10743806e-06 1.47143748e-05 8.17864006e-05 9.68296117e-05 3.11486769e-04 5.03194100e-04 7.18222772e-05 1.09711093e-04 1.30119161e-04 3.54063133e-05 1.00105432e-05 5.86451336e-05 1.40694838e-04 7.00673648e-05 2.32872971e-04 5.98022995e-05 3.95177231e-04 1.26890754e-04 2.07771644e-04 2.39609597e-04 1.14046395e-04 1.12087565e-04 3.47375173e-05 1.19847650e-04 3.65508007e-05 2.39363598e-05 9.14256896e-06 2.84319593e-04 4.38373508e-04 3.92330203e-05 7.49922677e-05 6.64120311e-05 1.82990040e-05 6.31224414e-05 2.69751547e-04 3.12224385e-04 6.05823654e-05 1.03132356e-04 1.56851972e-05 8.08390912e-06 3.54919939e-05 7.21982769e-05 8.31551584e-05 4.02056255e-05 3.38706844e-04 7.66715008e-05 3.39901913e-05 5.55068594e-06 1.70564440e-05 8.89814456e-05 3.14064841e-05 4.19416271e-06 7.91906218e-05 8.65006314e-05 3.56029280e-05 1.60534708e-04 1.15752380e-04 1.16332678e-04 5.54822191e-05 6.21011954e-05 1.46185733e-04 3.72193947e-04 4.48087281e-05
+max error is :0.00118958453
+Index 3 residue extraced slope err is
+[4.07967190e-05 6.48684421e-06 1.12984229e-03 2.12969518e-05
+5.08270725e-05 6.25481077e-04 2.77149139e-04 1.00120591e-04
+2.59852228e-06 6.76181189e-06 6.36876631e-04 1.06524795e-04
+2.51996174e-04 5.31475361e-05 6.84199105e-05 4.95731804e-05
+1.93494303e-05 7.98803170e-05 7.63290464e-05 1.77417884e-05
+3.08253588e-04 2.58992400e-04 8.02454537e-05 6.97458032e-05
+1.66617928e-05 2.41542746e-05 5.83793937e-05 2.06814690e-04
+1.85355478e-04 2.79956183e-04 4.25420433e-04 9.22593721e-05
+4.12974928e-06 1.15528736e-04 6.42776829e-05 2.19935264e-04
+1.17373327e-04 4.29389217e-05 9.53122590e-05 1.68674429e-04
+1.06891648e-04 8.02418041e-04 3.10533969e-05 1.25910619e-04
+4.54402203e-05 7.49190390e-06 4.32589500e-04 2.63790966e-04
+9.13832725e-06 5.74578524e-05 5.64516805e-04 1.23985997e-04
+4.50159502e-04 1.24064912e-03 6.73667217e-04 3.11399807e-06
+9.67702191e-06 1.90779507e-04 5.32027446e-05 1.35152101e-04
+8.74863916e-05 6.06959424e-05 1.33536109e-04 4.73396959e-04
+1.79620163e-04 1.16381712e-07 1.16153738e-04 1.26201022e-04
+1.51442331e-04 2.33989444e-04 7.88334499e-06 9.03623391e-06
+1.04536100e-04 7.41313732e-04 3.90242810e-04 1.23541845e-03
+8.52065563e-07 2.70375500e-04 1.23167260e-04 2.78849233e-05
+1.16765610e-04 3.09937473e-05 1.81430862e-05 2.39804610e-04
+8.48100368e-05 1.80267841e-06 7.19645234e-06 8.70265835e-05
+1.58489380e-04 6.29680501e-05 6.87900836e-06 1.46805999e-04
+6.41260427e-04 6.29264919e-05 3.04913370e-04 7.82900410e-05
+2.91866906e-05 4.78895257e-05 1.64277199e-04 4.10286243e-05
+8.08463155e-05 2.08906237e-04 2.00743483e-04 7.84078739e-05
+1.07279759e-04 1.11330249e-04 8.84483937e-06 1.27188661e-03
+4.11558712e-04 1.65664759e-06]
+4.07967190e-05 6.48684421e-06 1.12984229e-03 2.12969518e-05 5.08270725e-05 6.25481077e-04 2.77149139e-04 1.00120591e-04 2.59852228e-06 6.76181189e-06 6.36876631e-04 1.06524795e-04 2.51996174e-04 5.31475361e-05 6.84199105e-05 4.95731804e-05 1.93494303e-05 7.98803170e-05 7.63290464e-05 1.77417884e-05 3.08253588e-04 2.58992400e-04 8.02454537e-05 6.97458032e-05 1.66617928e-05 2.41542746e-05 5.83793937e-05 2.06814690e-04 1.85355478e-04 2.79956183e-04 4.25420433e-04 9.22593721e-05 4.12974928e-06 1.15528736e-04 6.42776829e-05 2.19935264e-04 1.17373327e-04 4.29389217e-05 9.53122590e-05 1.68674429e-04 1.06891648e-04 8.02418041e-04 3.10533969e-05 1.25910619e-04 4.54402203e-05 7.49190390e-06 4.32589500e-04 2.63790966e-04 9.13832725e-06 5.74578524e-05 5.64516805e-04 1.23985997e-04 4.50159502e-04 1.24064912e-03 6.73667217e-04 3.11399807e-06 9.67702191e-06 1.90779507e-04 5.32027446e-05 1.35152101e-04 8.74863916e-05 6.06959424e-05 1.33536109e-04 4.73396959e-04 1.79620163e-04 1.16381712e-07 1.16153738e-04 1.26201022e-04 1.51442331e-04 2.33989444e-04 7.88334499e-06 9.03623391e-06 1.04536100e-04 7.41313732e-04 3.90242810e-04 1.23541845e-03 8.52065563e-07 2.70375500e-04 1.23167260e-04 2.78849233e-05 1.16765610e-04 3.09937473e-05 1.81430862e-05 2.39804610e-04 8.48100368e-05 1.80267841e-06 7.19645234e-06 8.70265835e-05 1.58489380e-04 6.29680501e-05 6.87900836e-06 1.46805999e-04 6.41260427e-04 6.29264919e-05 3.04913370e-04 7.82900410e-05 2.91866906e-05 4.78895257e-05 1.64277199e-04 4.10286243e-05 8.08463155e-05 2.08906237e-04 2.00743483e-04 7.84078739e-05 1.07279759e-04 1.11330249e-04 8.84483937e-06 1.27188661e-03 4.11558712e-04 1.65664759e-06
+max error is :0.00127188661
+Index 4 residue extraced slope err is
+[2.91785405e-02 2.87360283e-04 1.06124165e-03 1.92496398e-01
+2.15757334e-02 2.89928056e-01 4.25697666e-02 6.24538282e-02
+2.12625925e-01 9.90112505e-02 4.71672756e-02 3.58363743e-02
+1.59106292e-01 7.02403110e-02 1.62330024e-02 1.47972463e-01
+5.49286921e-02 3.83834557e-02 1.88792675e-01 1.65096504e-01
+1.94196593e-01 3.49248512e-02 8.05051649e-02 8.38181909e-02
+4.04792639e-03 5.90310075e-02 2.19345635e-02 1.51225221e-02
+3.69871012e-01 8.87916327e-02 1.02405097e-01 1.60830204e-01
+1.10320058e-01 7.20498984e-02 9.16073106e-03 5.83389969e-02
+8.91889344e-02 1.07892445e-01 1.38528969e-02 6.02207967e-02
+3.64369632e-02 5.02398097e-02 1.45349745e-01 1.66571385e-01
+5.60957978e-02 1.62006153e-02 3.63605527e-03 3.02954971e-02
+1.30252076e-01 5.66968635e-02 1.07156149e-03 8.91174312e-02
+2.13299482e-02 1.83142450e-02 7.34289388e-02 1.59846412e-01
+2.22781563e-02 1.11214587e-01 1.55679065e-01 5.59648255e-03
+2.65333381e-04 3.78517636e-02 2.51609895e-02 1.03668433e-01
+3.17499554e-03 2.64812339e-02 2.34562507e-01 5.88440411e-02
+2.03731240e-01 3.39132028e-03 4.69711997e-02 1.26303564e-01
+1.44328133e-01 1.68864356e-02 1.83017587e-01 3.80927210e-01
+1.73451111e-03 4.99894035e-02 6.85695730e-02 1.40890551e-01
+1.39995407e+00 5.64382977e-02 1.60383839e-02 8.01809564e-02
+5.67024457e-02 4.81827736e-02 1.78547399e-02 3.95892644e-02
+9.32381800e-02 1.93145910e-02 1.21293320e-02 3.45729954e-02
+3.64578648e-02 1.19899173e-02 7.17971132e-03 1.03847233e-01
+4.42391193e-02 4.42468384e-02 4.67735186e-02 1.13833851e-01
+3.06282000e-02 5.83909400e-02 4.47553471e-02 2.94163776e-02
+4.14908347e-02 1.22570805e-02 8.81783780e-02 1.46398591e-01
+1.47668244e-02 8.83851732e-02]
+2.91785405e-02 2.87360283e-04 1.06124165e-03 1.92496398e-01 2.15757334e-02 2.89928056e-01 4.25697666e-02 6.24538282e-02 2.12625925e-01 9.90112505e-02 4.71672756e-02 3.58363743e-02 1.59106292e-01 7.02403110e-02 1.62330024e-02 1.47972463e-01 5.49286921e-02 3.83834557e-02 1.88792675e-01 1.65096504e-01 1.94196593e-01 3.49248512e-02 8.05051649e-02 8.38181909e-02 4.04792639e-03 5.90310075e-02 2.19345635e-02 1.51225221e-02 3.69871012e-01 8.87916327e-02 1.02405097e-01 1.60830204e-01 1.10320058e-01 7.20498984e-02 9.16073106e-03 5.83389969e-02 8.91889344e-02 1.07892445e-01 1.38528969e-02 6.02207967e-02 3.64369632e-02 5.02398097e-02 1.45349745e-01 1.66571385e-01 5.60957978e-02 1.62006153e-02 3.63605527e-03 3.02954971e-02 1.30252076e-01 5.66968635e-02 1.07156149e-03 8.91174312e-02 2.13299482e-02 1.83142450e-02 7.34289388e-02 1.59846412e-01 2.22781563e-02 1.11214587e-01 1.55679065e-01 5.59648255e-03 2.65333381e-04 3.78517636e-02 2.51609895e-02 1.03668433e-01 3.17499554e-03 2.64812339e-02 2.34562507e-01 5.88440411e-02 2.03731240e-01 3.39132028e-03 4.69711997e-02 1.26303564e-01 1.44328133e-01 1.68864356e-02 1.83017587e-01 3.80927210e-01 1.73451111e-03 4.99894035e-02 6.85695730e-02 1.40890551e-01 1.39995407e+00 5.64382977e-02 1.60383839e-02 8.01809564e-02 5.67024457e-02 4.81827736e-02 1.78547399e-02 3.95892644e-02 9.32381800e-02 1.93145910e-02 1.21293320e-02 3.45729954e-02 3.64578648e-02 1.19899173e-02 7.17971132e-03 1.03847233e-01 4.42391193e-02 4.42468384e-02 4.67735186e-02 1.13833851e-01 3.06282000e-02 5.83909400e-02 4.47553471e-02 2.94163776e-02 4.14908347e-02 1.22570805e-02 8.81783780e-02 1.46398591e-01 1.47668244e-02 8.83851732e-02
+max error is :1.39995407
+Index 5 residue extraced slope err is
+[1.95789128e-05 5.54210829e-06 1.52133479e-04 2.82773495e-04
+1.14510293e-04 1.70691092e-04 4.76362080e-04 4.12028567e-04
+3.17758256e-04 9.36905400e-06 6.04876700e-05 3.96854236e-04
+1.31688861e-04 1.91806412e-04 3.30042678e-05 6.59101943e-05
+4.05912323e-04 1.05867720e-03 1.01225946e-03 1.09435368e-04
+5.01491156e-05 3.55393054e-04 8.42729090e-05 9.32171269e-04
+4.53727570e-05 3.35015376e-04 4.80033869e-05 1.69324601e-04
+1.52217360e-04 5.20708398e-05 1.75827482e-04 2.15138581e-04
+2.02866287e-04 3.18949758e-04 2.29428950e-05 3.93430948e-05
+2.53970025e-04 4.87143356e-05 1.23914159e-04 1.75185327e-04
+2.22920057e-04 3.61715111e-05 2.17095008e-04 1.44114967e-04
+1.89088635e-04 1.13692241e-04 3.73147000e-04 4.84047297e-05
+1.01592321e-05 2.46569475e-05 1.44469465e-04 3.37685899e-04
+1.17378501e-03 9.23829773e-04 3.07874562e-04 7.15157063e-06
+1.75712788e-04 1.00515126e-04 7.09028907e-05 2.57392287e-04
+3.96690157e-04 3.65794297e-04 1.24070222e-04 9.45185906e-05
+3.83122740e-04 4.99004545e-04 9.89115389e-05 3.74608526e-04
+1.99315238e-04 1.06968431e-04 1.59174877e-04 2.12171105e-04
+2.80532379e-04 2.83390032e-04 7.91996939e-04 1.74929265e-04
+5.44813044e-05 2.77866032e-04 9.75421391e-06 6.12775139e-05
+4.72208149e-04 2.10661977e-04 2.06633957e-04 1.10677707e-03
+4.02734670e-05 5.95535367e-06 7.22539539e-04 1.33449388e-04
+3.75274695e-04 6.52968258e-04 3.10163047e-06 2.50568909e-06
+1.87053174e-04 1.48295354e-04 1.43855265e-05 1.49500846e-05
+3.74120707e-04 2.65559125e-05 1.20355202e-04 1.16835967e-05
+6.06234175e-05 4.34093188e-05 1.66959093e-04 3.30356951e-04
+3.43437917e-05 8.17648187e-05 1.80982817e-04 7.05845257e-05
+4.73925407e-04 3.65645337e-05]
+1.95789128e-05 5.54210829e-06 1.52133479e-04 2.82773495e-04 1.14510293e-04 1.70691092e-04 4.76362080e-04 4.12028567e-04 3.17758256e-04 9.36905400e-06 6.04876700e-05 3.96854236e-04 1.31688861e-04 1.91806412e-04 3.30042678e-05 6.59101943e-05 4.05912323e-04 1.05867720e-03 1.01225946e-03 1.09435368e-04 5.01491156e-05 3.55393054e-04 8.42729090e-05 9.32171269e-04 4.53727570e-05 3.35015376e-04 4.80033869e-05 1.69324601e-04 1.52217360e-04 5.20708398e-05 1.75827482e-04 2.15138581e-04 2.02866287e-04 3.18949758e-04 2.29428950e-05 3.93430948e-05 2.53970025e-04 4.87143356e-05 1.23914159e-04 1.75185327e-04 2.22920057e-04 3.61715111e-05 2.17095008e-04 1.44114967e-04 1.89088635e-04 1.13692241e-04 3.73147000e-04 4.84047297e-05 1.01592321e-05 2.46569475e-05 1.44469465e-04 3.37685899e-04 1.17378501e-03 9.23829773e-04 3.07874562e-04 7.15157063e-06 1.75712788e-04 1.00515126e-04 7.09028907e-05 2.57392287e-04 3.96690157e-04 3.65794297e-04 1.24070222e-04 9.45185906e-05 3.83122740e-04 4.99004545e-04 9.89115389e-05 3.74608526e-04 1.99315238e-04 1.06968431e-04 1.59174877e-04 2.12171105e-04 2.80532379e-04 2.83390032e-04 7.91996939e-04 1.74929265e-04 5.44813044e-05 2.77866032e-04 9.75421391e-06 6.12775139e-05 4.72208149e-04 2.10661977e-04 2.06633957e-04 1.10677707e-03 4.02734670e-05 5.95535367e-06 7.22539539e-04 1.33449388e-04 3.75274695e-04 6.52968258e-04 3.10163047e-06 2.50568909e-06 1.87053174e-04 1.48295354e-04 1.43855265e-05 1.49500846e-05 3.74120707e-04 2.65559125e-05 1.20355202e-04 1.16835967e-05 6.06234175e-05 4.34093188e-05 1.66959093e-04 3.30356951e-04 3.43437917e-05 8.17648187e-05 1.80982817e-04 7.05845257e-05 4.73925407e-04 3.65645337e-05
+max error is :0.00117378501
+Index 6 residue extraced slope err is
+[3.05975268e-05 5.99232962e-07 6.33413851e-04 6.76851536e-08
+5.02128971e-06 1.52823593e-05 5.03778259e-06 7.50085380e-06
+2.72870987e-05 1.45219057e-05 1.80104967e-04 1.16152102e-07
+9.43143003e-05 3.47977117e-05 1.62566340e-05 1.06422822e-04
+1.93852428e-05 2.09046449e-05 4.04890338e-06 3.72857026e-05
+1.16182494e-05 1.18702863e-04 5.37098991e-05 1.15592956e-04
+1.97120871e-05 1.89845596e-05 2.04739751e-05 5.86092355e-06
+7.36501042e-05 1.47232080e-06 8.95667846e-05 2.11458933e-05
+7.34695414e-06 8.86889553e-05 6.84379419e-07 1.44765132e-05
+2.27038334e-04 7.16512583e-05 1.56859551e-05 1.03773305e-05
+1.63969423e-05 4.93715613e-05 5.78543702e-05 7.25981621e-05
+4.66999504e-04 1.21722046e-05 4.15482716e-05 9.34781752e-06
+8.30798861e-05 2.89225770e-05 2.17485877e-06 8.86429032e-05
+4.33770285e-05 1.14239183e-04 5.48035371e-05 5.46771042e-05
+9.69018247e-06 1.79962778e-05 5.44969115e-05 2.62280707e-05
+2.32163957e-06 2.14916247e-05 2.39277300e-05 1.89893091e-05
+2.38562304e-05 3.50420859e-05 2.44382232e-05 1.64701362e-05
+2.68596985e-05 4.64646431e-06 3.01337028e-05 5.11263203e-05
+4.83936224e-05 5.69726733e-05 7.99751383e-05 2.88223955e-04
+1.27128671e-05 1.34691884e-05 2.56643142e-05 5.15669303e-06
+8.83245424e-05 5.28924986e-05 3.72154576e-05 8.73358540e-05
+9.76339841e-06 1.07262193e-04 2.89213185e-05 4.21955722e-05
+3.61858824e-05 3.27679826e-05 2.54178763e-06 1.17266345e-05
+9.33674043e-05 1.43363274e-05 9.01495789e-06 5.10115978e-06
+1.25320253e-05 3.37610739e-05 4.31815988e-06 4.73236411e-05
+2.23032235e-05 8.72348961e-05 1.63855523e-05 3.25325677e-06
+2.43371967e-06 6.18939729e-06 1.48204999e-05 2.70993834e-06
+1.49343161e-07 2.29225880e-05]
+3.05975268e-05 5.99232962e-07 6.33413851e-04 6.76851536e-08 5.02128971e-06 1.52823593e-05 5.03778259e-06 7.50085380e-06 2.72870987e-05 1.45219057e-05 1.80104967e-04 1.16152102e-07 9.43143003e-05 3.47977117e-05 1.62566340e-05 1.06422822e-04 1.93852428e-05 2.09046449e-05 4.04890338e-06 3.72857026e-05 1.16182494e-05 1.18702863e-04 5.37098991e-05 1.15592956e-04 1.97120871e-05 1.89845596e-05 2.04739751e-05 5.86092355e-06 7.36501042e-05 1.47232080e-06 8.95667846e-05 2.11458933e-05 7.34695414e-06 8.86889553e-05 6.84379419e-07 1.44765132e-05 2.27038334e-04 7.16512583e-05 1.56859551e-05 1.03773305e-05 1.63969423e-05 4.93715613e-05 5.78543702e-05 7.25981621e-05 4.66999504e-04 1.21722046e-05 4.15482716e-05 9.34781752e-06 8.30798861e-05 2.89225770e-05 2.17485877e-06 8.86429032e-05 4.33770285e-05 1.14239183e-04 5.48035371e-05 5.46771042e-05 9.69018247e-06 1.79962778e-05 5.44969115e-05 2.62280707e-05 2.32163957e-06 2.14916247e-05 2.39277300e-05 1.89893091e-05 2.38562304e-05 3.50420859e-05 2.44382232e-05 1.64701362e-05 2.68596985e-05 4.64646431e-06 3.01337028e-05 5.11263203e-05 4.83936224e-05 5.69726733e-05 7.99751383e-05 2.88223955e-04 1.27128671e-05 1.34691884e-05 2.56643142e-05 5.15669303e-06 8.83245424e-05 5.28924986e-05 3.72154576e-05 8.73358540e-05 9.76339841e-06 1.07262193e-04 2.89213185e-05 4.21955722e-05 3.61858824e-05 3.27679826e-05 2.54178763e-06 1.17266345e-05 9.33674043e-05 1.43363274e-05 9.01495789e-06 5.10115978e-06 1.25320253e-05 3.37610739e-05 4.31815988e-06 4.73236411e-05 2.23032235e-05 8.72348961e-05 1.63855523e-05 3.25325677e-06 2.43371967e-06 6.18939729e-06 1.48204999e-05 2.70993834e-06 1.49343161e-07 2.29225880e-05
+max error is :0.000633413851
+previous layer counts is 120
+previous layer fail counts is 0
+previous layer None counts is 0
+begin extract signature in layer 1
+CLUSTER ID218
+Successfully extracted neuron 90 with abs err 3.636002469161598e-11
+CLUSTER ID159
+Successfully extracted neuron 31 with abs err 1.839146933271113e-09
+CLUSTER ID170
+Successfully extracted neuron 42 with abs err 4.468388002274934e-10
+CLUSTER ID172
+Successfully extracted neuron 44 with abs err 6.562385825720218e-10
+CLUSTER ID230
+Successfully extracted neuron 102 with abs err 1.7197779962271897e-10
+CLUSTER ID153
+Successfully extracted neuron 25 with abs err 1.1678199418781177e-09
+CLUSTER ID147
+Successfully extracted neuron 19 with abs err 1.276353992304578e-09
+CLUSTER ID206
+Successfully extracted neuron 78 with abs err 3.720529382923157e-08
+CLUSTER ID182
+Successfully extracted neuron 54 with abs err 5.79160868840068e-10
+CLUSTER ID237
+Successfully extracted neuron 109 with abs err 9.161377340560425e-09
+CLUSTER ID192
+Successfully extracted neuron 64 with abs err 7.566854265568523e-10
+CLUSTER ID211
+Successfully extracted neuron 83 with abs err 4.619576748042531e-11
+CLUSTER ID225
+Successfully extracted neuron 97 with abs err 1.9888686434799217e-11
+CLUSTER ID145
+Successfully extracted neuron 17 with abs err 1.509077670496569e-10
+CLUSTER ID185
+Successfully extracted neuron 57 with abs err 1.388423584870041e-09
+CLUSTER ID197
+Successfully extracted neuron 69 with abs err 1.3060615156653549e-09
+CLUSTER ID161
+Successfully extracted neuron 33 with abs err 3.8144248946502674e-10
+CLUSTER ID187
+Successfully extracted neuron 59 with abs err 1.6675104654289424e-09
+CLUSTER ID195
+Successfully extracted neuron 67 with abs err 4.027233246320025e-10
+CLUSTER ID239
+Failed to identify recovered neuron
+CLUSTER ID177
+Successfully extracted neuron 49 with abs err 2.0350902672034918e-09
+CLUSTER ID235
+Successfully extracted neuron 107 with abs err 8.877412581084765e-10
+CLUSTER ID245
+Successfully extracted neuron 117 with abs err 7.759896035203911e-11
+CLUSTER ID143
+Successfully extracted neuron 15 with abs err 1.7643891330604289e-09
+CLUSTER ID141
+Successfully extracted neuron 13 with abs err 3.2732362637401605e-10
+CLUSTER ID130
+Successfully extracted neuron 2 with abs err 5.297627852889064e-10
+CLUSTER ID194
+Successfully extracted neuron 66 with abs err 1.2407488526183785e-09
+CLUSTER ID138
+Successfully extracted neuron 10 with abs err 1.1118469656241914e-09
+CLUSTER ID210
+Successfully extracted neuron 82 with abs err 2.55254156982139e-09
+CLUSTER ID234
+Successfully extracted neuron 106 with abs err 3.2305882951416676e-09
+CLUSTER ID137
+Successfully extracted neuron 9 with abs err 2.293182233730276e-10
+CLUSTER ID244
+Successfully extracted neuron 116 with abs err 5.517940141266942e-10
+CLUSTER ID224
+Successfully extracted neuron 96 with abs err 3.783074416824998e-09
+CLUSTER ID212
+Successfully extracted neuron 84 with abs err 8.888683559592908e-09
+CLUSTER ID215
+Successfully extracted neuron 87 with abs err 2.8512191013133764e-10
+CLUSTER ID140
+Successfully extracted neuron 12 with abs err 1.3774316106121565e-10
+CLUSTER ID139
+Successfully extracted neuron 11 with abs err 6.3177663081121676e-09
+CLUSTER ID242
+Successfully extracted neuron 114 with abs err 2.335680309250676e-09
+CLUSTER ID190
+Successfully extracted neuron 62 with abs err 8.14412864946247e-09
+CLUSTER ID193
+Successfully extracted neuron 65 with abs err 1.6973574349429116e-09
+CLUSTER ID171
+Successfully extracted neuron 43 with abs err 1.6955359995792646e-09
+CLUSTER ID232
+Successfully extracted neuron 104 with abs err 3.0240127894170035e-09
+CLUSTER ID150
+Successfully extracted neuron 22 with abs err 6.504735406993173e-10
+CLUSTER ID162
+Successfully extracted neuron 34 with abs err 1.958813194112563e-10
+CLUSTER ID213
+Successfully extracted neuron 85 with abs err 9.91584337073836e-10
+CLUSTER ID152
+Successfully extracted neuron 24 with abs err 3.120070241665468e-10
+CLUSTER ID160
+Successfully extracted neuron 32 with abs err 1.1988341353159383e-09
+CLUSTER ID198
+Successfully extracted neuron 70 with abs err 3.985970670281752e-10
+CLUSTER ID179
+Successfully extracted neuron 51 with abs err 4.751959268786687e-10
+CLUSTER ID173
+Successfully extracted neuron 45 with abs err 1.4095700288409285e-09
+CLUSTER ID156
+Successfully extracted neuron 28 with abs err 3.724015124051405e-10
+CLUSTER ID226
+Successfully extracted neuron 98 with abs err 2.0466672833504423e-09
+CLUSTER ID231
+Successfully extracted neuron 103 with abs err 1.583702721914826e-11
+CLUSTER ID155
+Successfully extracted neuron 27 with abs err 9.615688523201271e-10
+CLUSTER ID220
+Successfully extracted neuron 92 with abs err 1.2705051950171603e-08
+CLUSTER ID167
+Successfully extracted neuron 39 with abs err 1.4141341318969249e-09
+CLUSTER ID216
+Successfully extracted neuron 88 with abs err 4.7021060038242996e-09
+CLUSTER ID196
+Successfully extracted neuron 68 with abs err 3.2013053839763383e-10
+CLUSTER ID163
+Successfully extracted neuron 35 with abs err 1.0319512217405596e-09
+CLUSTER ID176
+Successfully extracted neuron 48 with abs err 3.1737752356764126e-10
+CLUSTER ID208
+Successfully extracted neuron 80 with abs err 6.139524401024832e-10
+CLUSTER ID228
+Successfully extracted neuron 100 with abs err 4.694295792362357e-09
+CLUSTER ID142
+Successfully extracted neuron 14 with abs err 1.5712776337212589e-09
+CLUSTER ID136
+Successfully extracted neuron 8 with abs err 2.0898668256011388e-10
+CLUSTER ID175
+Successfully extracted neuron 47 with abs err 9.676326014323305e-10
+CLUSTER ID243
+Successfully extracted neuron 115 with abs err 9.07237440554709e-11
+CLUSTER ID188
+Successfully extracted neuron 60 with abs err 5.56879217164432e-10
+CLUSTER ID204
+Successfully extracted neuron 76 with abs err 1.9507963549669077e-10
+CLUSTER ID214
+Successfully extracted neuron 86 with abs err 1.2596788239241374e-09
+CLUSTER ID174
+Successfully extracted neuron 46 with abs err 2.2177609217393507e-10
+CLUSTER ID184
+Successfully extracted neuron 56 with abs err 3.0371444531421612e-09
+CLUSTER ID132
+Failed to identify recovered neuron
+CLUSTER ID157
+Successfully extracted neuron 29 with abs err 7.634412416482328e-11
+CLUSTER ID154
+Successfully extracted neuron 26 with abs err 5.946166202534754e-08
+CLUSTER ID165
+Successfully extracted neuron 37 with abs err 8.10749156126959e-09
+CLUSTER ID207
+Successfully extracted neuron 79 with abs err 8.416620796581481e-11
+CLUSTER ID181
+Successfully extracted neuron 53 with abs err 1.0361275410027647e-08
+CLUSTER ID209
+Successfully extracted neuron 81 with abs err 8.359107507745211e-10
+CLUSTER ID129
+Successfully extracted neuron 1 with abs err 1.2395322288114713e-09
+CLUSTER ID180
+Successfully extracted neuron 52 with abs err 1.0371106740330455e-10
+CLUSTER ID217
+Successfully extracted neuron 89 with abs err 3.993885842705491e-11
+CLUSTER ID219
+Successfully extracted neuron 91 with abs err 6.748056584002238e-11
+CLUSTER ID128
+Successfully extracted neuron 0 with abs err 5.4206251964275184e-09
+CLUSTER ID221
+Successfully extracted neuron 93 with abs err 8.045214973005036e-10
+CLUSTER ID146
+Successfully extracted neuron 18 with abs err 1.2015639407384447e-09
+CLUSTER ID148
+Successfully extracted neuron 20 with abs err 3.10885794538307e-10
+CLUSTER ID199
+Successfully extracted neuron 71 with abs err 2.2067397516516846e-09
+CLUSTER ID222
+Successfully extracted neuron 94 with abs err 5.175398317029483e-10
+CLUSTER ID238
+Successfully extracted neuron 110 with abs err 3.0540430169404345e-08
+CLUSTER ID200
+Successfully extracted neuron 72 with abs err 1.842240514868601e-10
+CLUSTER ID134
+Successfully extracted neuron 6 with abs err 1.1056466262286332e-09
+CLUSTER ID247
+Successfully extracted neuron 119 with abs err 1.0267520820107096e-09
+CLUSTER ID205
+Successfully extracted neuron 77 with abs err 2.3657694139204294e-09
+CLUSTER ID201
+Successfully extracted neuron 73 with abs err 4.482182746701549e-10
+CLUSTER ID164
+Successfully extracted neuron 36 with abs err 1.2215966321729547e-09
+CLUSTER ID203
+Successfully extracted neuron 75 with abs err 5.895815133848126e-10
+CLUSTER ID169
+Successfully extracted neuron 41 with abs err 3.386833321173538e-09
+CLUSTER ID227
+Successfully extracted neuron 99 with abs err 5.001348269990241e-10
+CLUSTER ID202
+Successfully extracted neuron 74 with abs err 5.155475347844163e-10
+CLUSTER ID240
+Successfully extracted neuron 112 with abs err 2.075758625316032e-10
+CLUSTER ID246
+Successfully extracted neuron 118 with abs err 3.941415894939508e-09
+CLUSTER ID186
+Successfully extracted neuron 58 with abs err 3.942039611404269e-10
+CLUSTER ID189
+Successfully extracted neuron 61 with abs err 1.4076512670768704e-08
+CLUSTER ID191
+Successfully extracted neuron 63 with abs err 5.60907994970859e-10
+CLUSTER ID233
+Successfully extracted neuron 105 with abs err 3.03162110302721e-09
+CLUSTER ID151
+Successfully extracted neuron 23 with abs err 5.916052872199581e-10
+CLUSTER ID144
+Successfully extracted neuron 16 with abs err 9.865235451461674e-11
+CLUSTER ID158
+Successfully extracted neuron 30 with abs err 8.331982438193608e-09
+CLUSTER ID178
+Successfully extracted neuron 50 with abs err 1.4648874667542305e-09
+CLUSTER ID131
+Successfully extracted neuron 3 with abs err 3.445235674005842e-09
+CLUSTER ID241
+Successfully extracted neuron 113 with abs err 1.570445379642238e-11
+CLUSTER ID168
+Successfully extracted neuron 40 with abs err 2.870243349635884e-10
+CLUSTER ID183
+Successfully extracted neuron 55 with abs err 3.242858932772652e-10
+CLUSTER ID135
+Successfully extracted neuron 7 with abs err 7.827449860151048e-10
+CLUSTER ID236
+Successfully extracted neuron 108 with abs err 2.1303955483401027e-09
+CLUSTER ID229
+Successfully extracted neuron 101 with abs err 3.4815064461818964e-09
+CLUSTER ID149
+Successfully extracted neuron 21 with abs err 3.733197306192773e-09
+CLUSTER ID133
+Successfully extracted neuron 5 with abs err 7.484536206948944e-10
+CLUSTER ID166
+Successfully extracted neuron 38 with abs err 2.7605036257326505e-11
+CLUSTER ID223
+Successfully extracted neuron 95 with abs err 2.7873979567636514e-10
+previous layer counts is 120
+previous layer fail counts is 2
+previous layer None counts is 0
+max signature error is 5.946166202534754e-08
+begin extract slope in layer 1 and signature in layer 2
+CLUSTER ID301
+Not enough to fully extract
+CLUSTER ID305
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID354
+Not enough to fully extract
+CLUSTER ID286
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID316
+Not enough to fully extract
+CLUSTER ID343
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID361
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID330
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID274
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID292
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID344
+Not enough to fully extract
+CLUSTER ID285
+Not enough to fully extract
+CLUSTER ID311
+Not enough to fully extract
+CLUSTER ID359
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID281
+Not enough to fully extract
+CLUSTER ID369
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID345
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID323
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID375
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID278
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID346
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID283
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID288
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID259
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID377
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID332
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID347
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID308
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID358
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID312
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID322
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID353
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID331
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID302
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID272
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID352
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID372
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID297
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID307
+Not enough to fully extract
+CLUSTER ID296
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID367
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID300
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID329
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID282
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID271
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID256
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID378
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID293
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID303
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID357
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID336
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID327
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID381
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID328
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID265
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID299
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID373
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID351
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID368
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID376
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID280
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID362
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID341
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID306
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID269
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID277
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID326
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID291
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID337
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID287
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID289
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID342
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID334
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID266
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID304
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID276
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID317
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID321
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID355
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID314
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID310
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID364
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID325
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID333
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID279
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID261
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID350
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID319
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID365
+Not enough to fully extract
+CLUSTER ID290
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID324
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID371
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID270
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID257
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID295
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID374
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID363
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID366
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID258
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID262
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID284
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID309
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID335
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID360
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID382
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID349
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID379
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID260
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID268
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID356
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID273
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID313
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID339
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID320
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID380
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID370
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID298
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID263
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID318
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID348
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID338
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID264
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID383
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID275
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID340
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID294
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID267
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID315
+This network is expansive in layer 1, The real result is given by least square
+Index 0 residue extraced slope err is
+[2.51573545e-04 2.62903608e-04 4.23153839e-05 1.54439215e-04
+4.68758847e-05 4.13973180e-04 4.52494467e-05 1.81295279e-04
+1.14673755e-04 5.45346965e-05 1.48058311e-04 2.07380770e-04
+7.85686426e-06 1.73585693e-04 2.98620193e-04 1.86359374e-04
+1.04198047e-04 2.96523303e-04 5.65050125e-05 1.68993054e-05
+2.76754373e-05 5.64347152e-04 1.16836519e-04 1.34829177e-04
+2.30024796e-05 1.07900626e-04 2.80110750e-05 4.57039313e-05
+1.60881198e-04 1.32989160e-04 3.61820655e-05 5.50349827e-05
+6.63300159e-05 4.59067926e-05 5.20776320e-05 4.49538443e-05
+2.49617458e-05 1.20353965e-05 3.41332341e-05 1.11241352e-04
+3.65997566e-05 3.70019561e-05 3.37770699e-05 1.07886672e-03
+2.47348781e-05 1.20897434e-05 1.45773065e-04 9.60498702e-05
+9.53182068e-05 1.97298026e-04 2.81902471e-04 1.57366715e-06
+1.89323816e-04 8.82172499e-05 1.76931552e-05 1.26443811e-05
+8.51858367e-05 3.90563723e-05 7.53453379e-06 2.41929438e-04
+4.42639645e-05 1.55643529e-04 3.91609183e-05 9.25709804e-05
+1.63609368e-05 2.79360243e-05 1.33369876e-05 1.58625629e-04
+1.34626527e-04 7.25195951e-05 1.02781717e-04 1.10884035e-04
+2.15813818e-04 1.16371116e-04 1.31461527e-04 1.15739184e-04
+9.58575639e-05 1.44284957e-04 3.39613793e-06 4.22516159e-05
+6.70526089e-05 9.16354484e-05 1.91368159e-04 2.84870595e-04
+1.94954427e-05 1.80585388e-05 3.30409405e-05 4.83553749e-05
+2.80476574e-05 3.51694334e-05 2.30805032e-04 1.34702746e-04
+1.06101117e-04 4.14165078e-05 8.78150114e-05 1.23893225e-05
+1.88448694e-04 9.60842465e-05 1.83149638e-04 5.37681758e-08
+8.79676108e-05 9.39214941e-05 8.44968835e-05 1.00776923e-04
+1.69340783e-05 1.64925733e-04 7.32669057e-06 1.93022540e-04
+2.49320497e-04 1.68850538e-05 2.56323161e-05 1.15550172e-04
+4.59081239e-04 1.00151783e-05 2.10132560e-05 1.50514967e-05
+3.73475234e-04 2.02888379e-04 1.59886586e-04 5.32451240e-05]
+2.51573545e-04 2.62903608e-04 4.23153839e-05 1.54439215e-04 4.68758847e-05 4.13973180e-04 4.52494467e-05 1.81295279e-04 1.14673755e-04 5.45346965e-05 1.48058311e-04 2.07380770e-04 7.85686426e-06 1.73585693e-04 2.98620193e-04 1.86359374e-04 1.04198047e-04 2.96523303e-04 5.65050125e-05 1.68993054e-05 2.76754373e-05 5.64347152e-04 1.16836519e-04 1.34829177e-04 2.30024796e-05 1.07900626e-04 2.80110750e-05 4.57039313e-05 1.60881198e-04 1.32989160e-04 3.61820655e-05 5.50349827e-05 6.63300159e-05 4.59067926e-05 5.20776320e-05 4.49538443e-05 2.49617458e-05 1.20353965e-05 3.41332341e-05 1.11241352e-04 3.65997566e-05 3.70019561e-05 3.37770699e-05 1.07886672e-03 2.47348781e-05 1.20897434e-05 1.45773065e-04 9.60498702e-05 9.53182068e-05 1.97298026e-04 2.81902471e-04 1.57366715e-06 1.89323816e-04 8.82172499e-05 1.76931552e-05 1.26443811e-05 8.51858367e-05 3.90563723e-05 7.53453379e-06 2.41929438e-04 4.42639645e-05 1.55643529e-04 3.91609183e-05 9.25709804e-05 1.63609368e-05 2.79360243e-05 1.33369876e-05 1.58625629e-04 1.34626527e-04 7.25195951e-05 1.02781717e-04 1.10884035e-04 2.15813818e-04 1.16371116e-04 1.31461527e-04 1.15739184e-04 9.58575639e-05 1.44284957e-04 3.39613793e-06 4.22516159e-05 6.70526089e-05 9.16354484e-05 1.91368159e-04 2.84870595e-04 1.94954427e-05 1.80585388e-05 3.30409405e-05 4.83553749e-05 2.80476574e-05 3.51694334e-05 2.30805032e-04 1.34702746e-04 1.06101117e-04 4.14165078e-05 8.78150114e-05 1.23893225e-05 1.88448694e-04 9.60842465e-05 1.83149638e-04 5.37681758e-08 8.79676108e-05 9.39214941e-05 8.44968835e-05 1.00776923e-04 1.69340783e-05 1.64925733e-04 7.32669057e-06 1.93022540e-04 2.49320497e-04 1.68850538e-05 2.56323161e-05 1.15550172e-04 4.59081239e-04 1.00151783e-05 2.10132560e-05 1.50514967e-05 3.73475234e-04 2.02888379e-04 1.59886586e-04 5.32451240e-05
+max error is :0.00107886672
+previous layer counts is 128
+previous layer fail counts is 0
+previous layer None counts is 9
+begin extract signature in layer 2
+CLUSTER ID301
+Successfully extracted neuron 45 with abs err 1.0953852231732411e-09
+CLUSTER ID305
+Failed to identify recovered neuron
+CLUSTER ID354
+Successfully extracted neuron 98 with abs err 2.6488907875423136e-09
+CLUSTER ID286
+Successfully extracted neuron 30 with abs err 3.471064940682722e-09
+CLUSTER ID316
+Successfully extracted neuron 60 with abs err 2.2659530691691507e-09
+CLUSTER ID343
+Successfully extracted neuron 87 with abs err 8.073850457071454e-09
+CLUSTER ID361
+Successfully extracted neuron 105 with abs err 2.719207897695572e-09
+CLUSTER ID330
+Successfully extracted neuron 74 with abs err 1.06860360837846e-10
+CLUSTER ID274
+Successfully extracted neuron 18 with abs err 8.52039290410089e-08
+CLUSTER ID292
+Successfully extracted neuron 36 with abs err 6.691126308295929e-09
+CLUSTER ID344
+Successfully extracted neuron 88 with abs err 3.484511304198629e-09
+CLUSTER ID285
+Successfully extracted neuron 29 with abs err 6.622864400301844e-09
+CLUSTER ID311
+Successfully extracted neuron 55 with abs err 7.467812424975968e-09
+CLUSTER ID359
+Failed to identify recovered neuron
+CLUSTER ID281
+Successfully extracted neuron 25 with abs err 1.9391434848700997e-08
+CLUSTER ID369
+Failed to identify recovered neuron
+CLUSTER ID345
+Successfully extracted neuron 89 with abs err 2.6359788001450654e-10
+CLUSTER ID323
+Successfully extracted neuron 67 with abs err 1.737178393517759e-08
+CLUSTER ID375
+Successfully extracted neuron 119 with abs err 4.5731443263871165e-09
+CLUSTER ID278
+Successfully extracted neuron 22 with abs err 6.296641620433252e-09
+CLUSTER ID346
+Successfully extracted neuron 90 with abs err 5.198677700482416e-09
+CLUSTER ID283
+Successfully extracted neuron 27 with abs err 5.88030660449157e-09
+CLUSTER ID288
+Successfully extracted neuron 32 with abs err 6.594758264867953e-10
+CLUSTER ID259
+Successfully extracted neuron 3 with abs err 6.259475142855395e-09
+CLUSTER ID377
+Successfully extracted neuron 121 with abs err 2.9567417838540985e-08
+CLUSTER ID332
+Failed to identify recovered neuron
+CLUSTER ID347
+Successfully extracted neuron 91 with abs err 2.6071122980879944e-09
+CLUSTER ID308
+Successfully extracted neuron 52 with abs err 1.8370345507637015e-09
+CLUSTER ID358
+Successfully extracted neuron 102 with abs err 5.8360139795852334e-08
+CLUSTER ID312
+Successfully extracted neuron 56 with abs err 5.9922502599002794e-09
+CLUSTER ID322
+Successfully extracted neuron 66 with abs err 5.304713806674605e-09
+CLUSTER ID353
+Successfully extracted neuron 97 with abs err 2.6875447622573545e-09
+CLUSTER ID331
+Successfully extracted neuron 75 with abs err 6.248800344977072e-09
+CLUSTER ID302
+Successfully extracted neuron 46 with abs err 7.933295547183847e-10
+CLUSTER ID272
+Failed to identify recovered neuron
+CLUSTER ID352
+Successfully extracted neuron 96 with abs err 3.3751855496675504e-09
+CLUSTER ID372
+Successfully extracted neuron 116 with abs err 2.280056764713493e-08
+CLUSTER ID297
+Successfully extracted neuron 41 with abs err 1.3715718983741548e-09
+CLUSTER ID307
+Successfully extracted neuron 51 with abs err 2.9605148434749123e-09
+CLUSTER ID296
+Successfully extracted neuron 40 with abs err 1.4628749031887225e-08
+CLUSTER ID367
+Successfully extracted neuron 111 with abs err 2.828461624041368e-09
+CLUSTER ID300
+Successfully extracted neuron 44 with abs err 8.661184493132662e-10
+CLUSTER ID329
+Successfully extracted neuron 73 with abs err 3.1869788918623913e-09
+CLUSTER ID282
+Successfully extracted neuron 26 with abs err 4.864149055598416e-09
+CLUSTER ID271
+Successfully extracted neuron 15 with abs err 2.6194958238114074e-09
+CLUSTER ID256
+Successfully extracted neuron 0 with abs err 1.017901771657964e-08
+CLUSTER ID378
+Successfully extracted neuron 122 with abs err 1.1936093588532258e-09
+CLUSTER ID293
+Successfully extracted neuron 37 with abs err 1.6129712243585434e-09
+CLUSTER ID303
+Successfully extracted neuron 47 with abs err 1.36694892578158e-08
+CLUSTER ID357
+Successfully extracted neuron 101 with abs err 2.100702364664364e-09
+CLUSTER ID336
+Successfully extracted neuron 80 with abs err 3.7793177330605436e-10
+CLUSTER ID327
+Successfully extracted neuron 71 with abs err 6.363579021042599e-09
+CLUSTER ID381
+Successfully extracted neuron 125 with abs err 3.2187354440300388e-09
+CLUSTER ID328
+Successfully extracted neuron 72 with abs err 1.8770546962999617e-09
+CLUSTER ID265
+Successfully extracted neuron 9 with abs err 4.6109957330337306e-07
+CLUSTER ID299
+Successfully extracted neuron 43 with abs err 1.6054036489944468e-09
+CLUSTER ID373
+Successfully extracted neuron 117 with abs err 2.104000957400126e-09
+CLUSTER ID351
+Successfully extracted neuron 95 with abs err 2.044879062780558e-08
+CLUSTER ID368
+Successfully extracted neuron 112 with abs err 1.0111900721268552e-08
+CLUSTER ID376
+Successfully extracted neuron 120 with abs err 3.048175582385723e-09
+CLUSTER ID280
+Successfully extracted neuron 24 with abs err 4.0695400483161705e-09
+CLUSTER ID362
+Successfully extracted neuron 106 with abs err 1.1510989936843602e-10
+CLUSTER ID341
+Successfully extracted neuron 85 with abs err 1.27271608677329e-08
+CLUSTER ID306
+Successfully extracted neuron 50 with abs err 2.7066532630633244e-10
+CLUSTER ID269
+Successfully extracted neuron 13 with abs err 6.699849345237138e-09
+CLUSTER ID277
+Successfully extracted neuron 21 with abs err 5.339594561588803e-10
+CLUSTER ID326
+Successfully extracted neuron 70 with abs err 7.4087864849429075e-09
+CLUSTER ID291
+Successfully extracted neuron 35 with abs err 1.0503631865644257e-08
+CLUSTER ID337
+Successfully extracted neuron 81 with abs err 5.262547066861773e-09
+CLUSTER ID287
+Successfully extracted neuron 31 with abs err 6.56236993743703e-09
+CLUSTER ID289
+Successfully extracted neuron 33 with abs err 7.486554452545632e-09
+CLUSTER ID342
+Successfully extracted neuron 86 with abs err 3.253131042091394e-08
+CLUSTER ID334
+Successfully extracted neuron 78 with abs err 3.06892460391877e-09
+CLUSTER ID266
+Successfully extracted neuron 10 with abs err 1.1993214272989616e-09
+CLUSTER ID304
+Successfully extracted neuron 48 with abs err 8.145673377365462e-07
+CLUSTER ID276
+Successfully extracted neuron 20 with abs err 4.248375467079944e-09
+CLUSTER ID317
+Successfully extracted neuron 61 with abs err 1.746503391350041e-08
+CLUSTER ID321
+Successfully extracted neuron 65 with abs err 5.5173100576080825e-09
+CLUSTER ID355
+Successfully extracted neuron 99 with abs err 5.725088287559382e-09
+CLUSTER ID314
+Successfully extracted neuron 58 with abs err 1.6796819772742222e-10
+CLUSTER ID310
+Successfully extracted neuron 54 with abs err 5.353742160967706e-09
+CLUSTER ID364
+Successfully extracted neuron 108 with abs err 2.1231790484001634e-09
+CLUSTER ID325
+Successfully extracted neuron 69 with abs err 3.189391600323145e-09
+CLUSTER ID333
+Successfully extracted neuron 77 with abs err 1.2070302380208855e-10
+CLUSTER ID279
+Successfully extracted neuron 23 with abs err 1.6911863306252536e-09
+CLUSTER ID261
+Successfully extracted neuron 5 with abs err 6.170231103613463e-09
+CLUSTER ID350
+Successfully extracted neuron 94 with abs err 1.3868961068399122e-08
+CLUSTER ID319
+Successfully extracted neuron 63 with abs err 1.1211814077247573e-09
+CLUSTER ID365
+Successfully extracted neuron 109 with abs err 1.5377340711403764e-09
+CLUSTER ID290
+Successfully extracted neuron 34 with abs err 6.716762704838883e-10
+CLUSTER ID324
+Successfully extracted neuron 68 with abs err 1.2252839591249745e-08
+CLUSTER ID371
+Successfully extracted neuron 115 with abs err 6.101134698149879e-09
+CLUSTER ID270
+Successfully extracted neuron 14 with abs err 4.868436452587499e-10
+CLUSTER ID257
+Successfully extracted neuron 1 with abs err 4.686891264199869e-09
+CLUSTER ID295
+Successfully extracted neuron 39 with abs err 2.582734929352723e-09
+CLUSTER ID374
+Successfully extracted neuron 118 with abs err 2.334868256526892e-07
+CLUSTER ID363
+Successfully extracted neuron 107 with abs err 1.273465798199043e-09
+CLUSTER ID366
+Failed to identify recovered neuron
+CLUSTER ID258
+Successfully extracted neuron 2 with abs err 1.2044268077186001e-08
+CLUSTER ID262
+Successfully extracted neuron 6 with abs err 3.501401374405872e-09
+CLUSTER ID284
+Successfully extracted neuron 28 with abs err 7.899898191935772e-09
+CLUSTER ID309
+Successfully extracted neuron 53 with abs err 5.285085134831315e-10
+CLUSTER ID335
+Successfully extracted neuron 79 with abs err 6.510409045635407e-10
+CLUSTER ID360
+Successfully extracted neuron 104 with abs err 1.354885980047859e-09
+CLUSTER ID382
+Successfully extracted neuron 126 with abs err 2.0394071231175656e-08
+CLUSTER ID349
+Successfully extracted neuron 93 with abs err 6.08791369681623e-09
+CLUSTER ID379
+Successfully extracted neuron 123 with abs err 6.67371690618319e-09
+CLUSTER ID260
+Successfully extracted neuron 4 with abs err 9.722196615477574e-11
+CLUSTER ID268
+Successfully extracted neuron 12 with abs err 6.59233746931609e-09
+CLUSTER ID356
+Successfully extracted neuron 100 with abs err 1.1906749961432695e-07
+CLUSTER ID273
+Successfully extracted neuron 17 with abs err 7.008972053353796e-09
+CLUSTER ID313
+Successfully extracted neuron 57 with abs err 1.9097046665382533e-09
+CLUSTER ID339
+Successfully extracted neuron 83 with abs err 9.531324573618539e-09
+CLUSTER ID320
+Successfully extracted neuron 64 with abs err 1.3822015465774634e-09
+CLUSTER ID380
+Successfully extracted neuron 124 with abs err 1.3884545180253838e-09
+CLUSTER ID370
+Successfully extracted neuron 114 with abs err 6.247355539262659e-09
+CLUSTER ID298
+Successfully extracted neuron 42 with abs err 2.4461146885866678e-08
+CLUSTER ID263
+Failed to identify recovered neuron
+CLUSTER ID318
+Successfully extracted neuron 62 with abs err 3.2603235357786184e-09
+CLUSTER ID348
+Successfully extracted neuron 92 with abs err 1.5627559016816173e-09
+CLUSTER ID338
+Successfully extracted neuron 82 with abs err 1.611530035664551e-09
+CLUSTER ID264
+Successfully extracted neuron 8 with abs err 4.2602964377439975e-08
+CLUSTER ID383
+Successfully extracted neuron 127 with abs err 2.31476671164188e-09
+CLUSTER ID275
+Successfully extracted neuron 19 with abs err 1.0884988336460483e-08
+CLUSTER ID340
+Successfully extracted neuron 84 with abs err 6.680902502227692e-10
+CLUSTER ID294
+Failed to identify recovered neuron
+CLUSTER ID267
+Successfully extracted neuron 11 with abs err 8.284663337485395e-11
+CLUSTER ID315
+Successfully extracted neuron 59 with abs err 1.247621231369525e-09
+previous layer counts is 128
+previous layer fail counts is 8
+previous layer None counts is 0
+max signature error is 8.145673377365462e-07

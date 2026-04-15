@@ -153,7 +153,6 @@ def is_consistent_help(points, prefix, layer=0, do_return_soln=False, allow_clos
     target_step_size = step_size
     
     # The points need to be in different linear regions to try and compare them
-    # 记得修改，这里是有一些问题的，主要集中在consistent调用时如果不需要返回soln
     if vectorized_check_closest_pair_distance(points) and not allow_close:
         return None, None # rejected
     
