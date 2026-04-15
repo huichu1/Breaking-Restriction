@@ -1,0 +1,369 @@
+previous layer counts is 0
+previous layer fail counts is 0
+previous layer None counts is 0
+begin extract signature in layer 0
+CLUSTER ID3
+Successfully extracted neuron 3 with abs err 1.404206065661051e-10
+CLUSTER ID0
+Successfully extracted neuron 0 with abs err 9.528908460898489e-10
+CLUSTER ID1
+Successfully extracted neuron 1 with abs err 1.5807557042848974e-10
+CLUSTER ID4
+Successfully extracted neuron 4 with abs err 2.5840590680680647e-10
+CLUSTER ID2
+Successfully extracted neuron 2 with abs err 7.119599146343525e-10
+previous layer counts is 5
+previous layer fail counts is 0
+previous layer None counts is 0
+max signature error is 9.528908460898489e-10
+begin extract slope in layer 0 and signature in layer 1
+CLUSTER ID15
+Successfully extracted neuron 0 with abs err 5.599697699976147e-08
+CLUSTER ID20
+Successfully extracted neuron 5 with abs err 4.7747953924037745e-09
+CLUSTER ID16
+Successfully extracted neuron 1 with abs err 5.3935969024365704e-09
+CLUSTER ID19
+Successfully extracted neuron 4 with abs err 1.3223132422357509e-08
+CLUSTER ID18
+Successfully extracted neuron 3 with abs err 1.2280411208764885e-08
+CLUSTER ID17
+Successfully extracted neuron 2 with abs err 1.787338910208547e-08
+previous layer counts is 6
+previous layer fail counts is 0
+previous layer None counts is 0
+max signature error is 5.599697699976147e-08
+begin extract signature in layer 1
+CLUSTER ID15
+Successfully extracted neuron 0 with abs err 5.244643080937195e-09
+CLUSTER ID20
+Successfully extracted neuron 5 with abs err 4.762261654467359e-09
+CLUSTER ID16
+Successfully extracted neuron 1 with abs err 1.1650056475076553e-09
+CLUSTER ID19
+Successfully extracted neuron 4 with abs err 4.8110538053425245e-09
+CLUSTER ID18
+Successfully extracted neuron 3 with abs err 5.65648899247817e-10
+CLUSTER ID17
+Successfully extracted neuron 2 with abs err 1.129326465676428e-09
+previous layer counts is 6
+previous layer fail counts is 0
+previous layer None counts is 0
+max signature error is 5.244643080937195e-09
+begin extract slope in layer 1 and signature in layer 2
+CLUSTER ID35
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID36
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID34
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID31
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID30
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID33
+This network is expansive in layer 1, The real result is given by least square
+CLUSTER ID32
+This network is expansive in layer 1, The real result is given by least square
+Index 0 residue extraced slope err is
+[2.11817344e-08 1.73890496e-08 3.30155390e-08 5.53314938e-08
+1.37366054e-08 1.42573261e-07]
+2.11817344e-08 1.73890496e-08 3.30155390e-08 5.53314938e-08 1.37366054e-08 1.42573261e-07
+max error is :1.42573261e-07
+previous layer counts is 7
+previous layer fail counts is 0
+previous layer None counts is 0
+begin extract signature in layer 2
+CLUSTER ID35
+Failed to identify recovered neuron
+CLUSTER ID36
+Successfully extracted neuron 6 with abs err 1.197945145858803e-08
+CLUSTER ID34
+Successfully extracted neuron 4 with abs err 1.0286262649220057e-06
+CLUSTER ID31
+Successfully extracted neuron 1 with abs err 2.383968719307794e-08
+CLUSTER ID30
+Failed to identify recovered neuron
+CLUSTER ID33
+Failed to identify recovered neuron
+CLUSTER ID32
+Successfully extracted neuron 2 with abs err 2.461519994778616e-09
+previous layer counts is 7
+previous layer fail counts is 3
+previous layer None counts is 0
+max signature error is 1.0286262649220057e-06
+begin extract slope in layer 2 and signature in layer 3
+CLUSTER ID46
+This network is expansive in layer 2, The real result is given by least square
+CLUSTER ID50
+This network is expansive in layer 2, The real result is given by least square
+CLUSTER ID45
+This network is expansive in layer 2, The real result is given by least square
+CLUSTER ID48
+This network is expansive in layer 2, The real result is given by least square
+CLUSTER ID51
+This network is expansive in layer 2, The real result is given by least square
+CLUSTER ID49
+This network is expansive in layer 2, The real result is given by least square
+CLUSTER ID52
+This network is expansive in layer 2, The real result is given by least square
+CLUSTER ID47
+This network is expansive in layer 2, The real result is given by least square
+Index 0 residue extraced slope err is
+[5.89241074e-06 3.34411960e-07 1.23342814e-06 2.74765411e-06
+2.44616829e-07 1.17790069e-06 1.07172382e-08]
+5.89241074e-06 3.34411960e-07 1.23342814e-06 2.74765411e-06 2.44616829e-07 1.17790069e-06 1.07172382e-08
+max error is :5.89241074e-06
+previous layer counts is 8
+previous layer fail counts is 0
+previous layer None counts is 0
+begin extract signature in layer 3
+CLUSTER ID46
+Failed to identify recovered neuron
+CLUSTER ID50
+Failed to identify recovered neuron
+CLUSTER ID45
+Successfully extracted neuron 0 with abs err 3.691448119402807e-10
+CLUSTER ID48
+Successfully extracted neuron 3 with abs err 4.45402119169519e-07
+CLUSTER ID51
+Failed to identify recovered neuron
+CLUSTER ID49
+Failed to identify recovered neuron
+CLUSTER ID52
+Successfully extracted neuron 7 with abs err 4.6576254866814715e-09
+CLUSTER ID47
+Failed to identify recovered neuron
+previous layer counts is 8
+previous layer fail counts is 5
+previous layer None counts is 0
+max signature error is 4.45402119169519e-07
+begin extract slope in layer 3 and signature in layer 4
+CLUSTER ID66
+This network is expansive in layer 3, The real result is given by least square
+CLUSTER ID63
+This network is expansive in layer 3, The real result is given by least square
+CLUSTER ID60
+This network is expansive in layer 3, The real result is given by least square
+CLUSTER ID64
+Not enough to fully extract
+CLUSTER ID61
+This network is expansive in layer 3, The real result is given by least square
+CLUSTER ID68
+This network is expansive in layer 3, The real result is given by least square
+CLUSTER ID62
+Not enough to fully extract
+CLUSTER ID65
+Not enough to fully extract
+CLUSTER ID67
+This network is expansive in layer 3, The real result is given by least square
+Index 0 residue extraced slope err is
+[5.15730614e-08 6.30846506e-07 8.42531431e-08 9.17349003e-07
+1.98750046e-09 1.46145298e-07 8.14846253e-07 1.28176017e-07]
+5.15730614e-08 6.30846506e-07 8.42531431e-08 9.17349003e-07 1.98750046e-09 1.46145298e-07 8.14846253e-07 1.28176017e-07
+max error is :9.17349003e-07
+previous layer counts is 9
+previous layer fail counts is 0
+previous layer None counts is 3
+begin extract signature in layer 4
+CLUSTER ID66
+Successfully extracted neuron 6 with abs err 5.07286912476701e-09
+CLUSTER ID63
+Failed to identify recovered neuron
+CLUSTER ID60
+Successfully extracted neuron 0 with abs err 1.1710966392117217e-07
+CLUSTER ID64
+Failed to identify recovered neuron
+CLUSTER ID61
+Successfully extracted neuron 1 with abs err 2.6486906772038576e-08
+CLUSTER ID68
+Failed to identify recovered neuron
+CLUSTER ID62
+Failed to identify recovered neuron
+CLUSTER ID65
+Successfully extracted neuron 5 with abs err 3.2841317998411057e-09
+CLUSTER ID67
+Failed to identify recovered neuron
+previous layer counts is 9
+previous layer fail counts is 5
+previous layer None counts is 0
+max signature error is 1.1710966392117217e-07
+begin extract slope in layer 4 and signature in layer 5
+CLUSTER ID77
+This network is expansive in layer 4, The real result is given by least square
+CLUSTER ID82
+This network is expansive in layer 4, The real result is given by least square
+CLUSTER ID83
+This network is expansive in layer 4, The real result is given by least square
+CLUSTER ID75
+Not enough to fully extract
+CLUSTER ID79
+This network is expansive in layer 4, The real result is given by least square
+CLUSTER ID78
+This network is expansive in layer 4, The real result is given by least square
+CLUSTER ID80
+Not enough to fully extract
+CLUSTER ID81
+This network is expansive in layer 4, The real result is given by least square
+CLUSTER ID76
+This network is expansive in layer 4, The real result is given by least square
+CLUSTER ID84
+This network is expansive in layer 4, The real result is given by least square
+Index 0 residue extraced slope err is
+[9.03657537e-06 1.61822342e-07 4.23339988e-06 6.60595956e-08
+7.68350654e-08 2.22406468e-06 1.60479778e-06 3.80438494e-06
+8.63701751e-06]
+9.03657537e-06 1.61822342e-07 4.23339988e-06 6.60595956e-08 7.68350654e-08 2.22406468e-06 1.60479778e-06 3.80438494e-06 8.63701751e-06
+max error is :9.03657537e-06
+previous layer counts is 10
+previous layer fail counts is 0
+previous layer None counts is 2
+begin extract signature in layer 5
+CLUSTER ID77
+Failed to identify recovered neuron
+CLUSTER ID82
+Failed to identify recovered neuron
+CLUSTER ID83
+Failed to identify recovered neuron
+CLUSTER ID75
+Failed to identify recovered neuron
+CLUSTER ID79
+Failed to identify recovered neuron
+CLUSTER ID78
+Failed to identify recovered neuron
+CLUSTER ID80
+Failed to identify recovered neuron
+CLUSTER ID81
+Failed to identify recovered neuron
+CLUSTER ID76
+Failed to identify recovered neuron
+CLUSTER ID84
+Failed to identify recovered neuron
+previous layer counts is 10
+previous layer fail counts is 10
+previous layer None counts is 0
+begin extract slope in layer 5 and signature in layer 6
+CLUSTER ID93
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID91
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID96
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID92
+Not enough to fully extract
+CLUSTER ID94
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID97
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID95
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID90
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID98
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID100
+This network is expansive in layer 5, The real result is given by least square
+CLUSTER ID99
+This network is expansive in layer 5, The real result is given by least square
+Index 0 residue extraced slope err is
+[2.27930047e-07 4.68051697e-06 1.10004305e-05 1.66150923e-06
+5.30205720e-06 6.15391168e-07 1.14230235e-07 5.07517746e-06
+1.55973597e-06 5.54285021e-06]
+2.27930047e-07 4.68051697e-06 1.10004305e-05 1.66150923e-06 5.30205720e-06 6.15391168e-07 1.14230235e-07 5.07517746e-06 1.55973597e-06 5.54285021e-06
+max error is :1.10004305e-05
+previous layer counts is 11
+previous layer fail counts is 0
+previous layer None counts is 1
+begin extract signature in layer 6
+CLUSTER ID93
+Failed to identify recovered neuron
+CLUSTER ID91
+Failed to identify recovered neuron
+CLUSTER ID96
+Failed to identify recovered neuron
+CLUSTER ID92
+Failed to identify recovered neuron
+CLUSTER ID94
+Failed to identify recovered neuron
+CLUSTER ID97
+Failed to identify recovered neuron
+CLUSTER ID95
+Failed to identify recovered neuron
+CLUSTER ID90
+Failed to identify recovered neuron
+CLUSTER ID98
+Failed to identify recovered neuron
+CLUSTER ID100
+Failed to identify recovered neuron
+CLUSTER ID99
+Failed to identify recovered neuron
+previous layer counts is 11
+previous layer fail counts is 11
+previous layer None counts is 0
+begin extract slope in layer 6 and signature in layer 7
+CLUSTER ID113
+Not enough to fully extract
+CLUSTER ID106
+This network is expansive in layer 6, The real result is given by least square
+CLUSTER ID107
+Not enough to fully extract
+CLUSTER ID108
+Not enough to fully extract
+CLUSTER ID115
+This network is expansive in layer 6, The real result is given by least square
+CLUSTER ID109
+Not enough to fully extract
+CLUSTER ID111
+This network is expansive in layer 6, The real result is given by least square
+CLUSTER ID110
+This network is expansive in layer 6, The real result is given by least square
+CLUSTER ID116
+Not enough to fully extract
+CLUSTER ID105
+This network is expansive in layer 6, The real result is given by least square
+CLUSTER ID114
+This network is expansive in layer 6, The real result is given by least square
+CLUSTER ID112
+This network is expansive in layer 6, The real result is given by least square
+Index 0 residue extraced slope err is
+[0.02785596 0.00536845 0.01232273 0.00295578 0.01639573 0.01557397
+0.01315257 0.00240032 0.00947277 0.00340974 0.01417973]
+0.02785596 0.00536845 0.01232273 0.00295578 0.01639573 0.01557397 0.01315257 0.00240032 0.00947277 0.00340974 0.01417973
+max error is :0.02785596
+Index 1 residue extraced slope err is
+[4.73959262e-07 3.10369384e-06 2.19317857e-06 9.51705362e-07
+1.69642797e-05 1.92333926e-06 1.64136782e-07 6.12107071e-07
+1.07982418e-07 8.42881804e-07 1.81246724e-07]
+4.73959262e-07 3.10369384e-06 2.19317857e-06 9.51705362e-07 1.69642797e-05 1.92333926e-06 1.64136782e-07 6.12107071e-07 1.07982418e-07 8.42881804e-07 1.81246724e-07
+max error is :1.69642797e-05
+previous layer counts is 12
+previous layer fail counts is 0
+previous layer None counts is 5
+begin extract signature in layer 7
+CLUSTER ID113
+Failed to identify recovered neuron
+CLUSTER ID106
+Failed to identify recovered neuron
+CLUSTER ID107
+Failed to identify recovered neuron
+CLUSTER ID108
+Failed to identify recovered neuron
+CLUSTER ID115
+Failed to identify recovered neuron
+CLUSTER ID109
+Failed to identify recovered neuron
+CLUSTER ID111
+Failed to identify recovered neuron
+CLUSTER ID110
+Failed to identify recovered neuron
+CLUSTER ID116
+Failed to identify recovered neuron
+CLUSTER ID105
+Failed to identify recovered neuron
+CLUSTER ID114
+Failed to identify recovered neuron
+CLUSTER ID112
+Failed to identify recovered neuron
+previous layer counts is 12
+previous layer fail counts is 12
+previous layer None counts is 0
